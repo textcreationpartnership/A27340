@@ -1,0 +1,884 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The belief of praying for the dead</title>
+            <author>Belhaven, John Hamilton, Baron, 1656-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27340</idno>
+            <idno type="STC">Wing B1787</idno>
+            <idno type="STC">ESTC R16794</idno>
+            <idno type="EEBO-CITATION">12546300</idno>
+            <idno type="OCLC">ocm 12546300</idno>
+            <idno type="VID">63059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 954:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The belief of praying for the dead</title>
+                  <author>Belhaven, John Hamilton, Baron, 1656-1708.</author>
+               </titleStmt>
+               <extent>[4], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by Matthew Turner ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Liturgy.</term>
+               <term>Catholic Church. --  Masses for the dead.</term>
+               <term>Prayers for the dead.</term>
+               <term>Purgatory.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63059:1"/>
+            <pb facs="tcp:63059:1" rendition="simple:additions"/>
+            <p>THE BELIEF OF PRAYING FOR THE DEAD.</p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> A holy and Godly Thought.</p>
+               <bibl>
+                  <hi>Maccab.</hi> l. <hi>2.</hi> c. <hi>12.</hi>
+               </bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="lat" type="license">
+                  <body>
+                     <p>
+                        <hi>Permiſſu Superiorum.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>Matthew Turner</hi> at the <hi>Lamb</hi> in <hi>High-Holbourn.</hi> 1688.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:63059:2"/>
+            <pb facs="tcp:63059:2"/>
+            <head>THE Introduction.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Lately met, in the Country, with a Diſcourſe concerning <hi>Purga<g ref="char:EOLhyphen"/>tory</hi> and <hi>Prayer for the Dead;</hi> wherein the Author endeavours by many waies to wean me from my Faith, in theſe Points: <hi>Firſt,</hi> He be<g ref="char:EOLhyphen"/>gins to diſcountenance the <hi>Be<g ref="char:EOLhyphen"/>lief</hi> of the <hi>Roman-Catholick</hi> Church, which teaches me to Pray for the Deceaſed; by telling me, She was beholden for <hi>This</hi> to Her Worthy <hi>Forerun<g ref="char:EOLhyphen"/>ners,</hi> the Poets and Heathen Philoſophers. Then he labours to intangle it with the ancient Cuſtom of the <hi>Primitive</hi> Church, Praying to GOD <hi>for all the Saints.</hi> After, he proceeds to contradict it by the
+<pb facs="tcp:63059:3"/> oppoſite Profeſſion of the <hi>Greeks, who never re<g ref="char:EOLhyphen"/>ceiv'd any ſuch Doctrine from their Anceſtors.</hi> And he finally reſolves to loſe it, amidſt the divers <hi>Opinions</hi> of the Fathers, concerning <hi>the State of Men after Death.</hi> But all this in vain: For we know who is the <hi>Maſter</hi> of <hi>Confuſion</hi> and <hi>Contra<g ref="char:EOLhyphen"/>diction.</hi> And the Gates of Hell ſhall never prevail againſt that <hi>Faith,</hi> which is built on the <hi>Rock,</hi> CHRIST. 'Tis here <hi>Roman</hi> Catholicks fix their <hi>Article</hi> of Praying for <hi>Souls</hi> departed. Read without Prejudice; judge without Partiality; confeſs your Conviction without Obstinacy.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:63059:3"/>
+            <head>
+               <hi>THE BELIEF OF</hi> Praying for the Dead.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of <hi>Pagans</hi> Praying for the Dead.</head>
+               <p>THE <hi>Diſcourſer</hi> troubled at the early Pra<g ref="char:EOLhyphen"/>ctice of <hi>Praying for the Dead</hi> in the Church of GOD, allows this Cuſtom, <hi>with a ſmile,</hi>
+                  <note place="margin">Page 3.</note> to have been of very <hi>venerable Antiquity,</hi> and to have exceeded <hi>even Chriſtianity it ſelf, for ſome Hundreds of Years. The Ghoſt of</hi> Elpenor <hi>in</hi> Homer,<note place="margin">Hom. Odyſs. 12. Virg. Aeneid. 6.</note> 
+                  <hi>and of</hi> Palinurus <hi>in</hi> Virgil, <hi>abundantly ſhew this.</hi>
+               </p>
+               <p>
+                  <hi>Jeſts</hi> are not ſeaſonable in ſerious debates of Re<g ref="char:EOLhyphen"/>ligion. Nor do <hi>Roman</hi> Catholicks believe Prayers to be profitable for the <hi>Dead,</hi> becauſe the <hi>Poets have deſcribed many Ceremonies uſed for their deliverance,</hi> which nearly reſemble the preſent Practice of the
+<pb n="2" facs="tcp:63059:4"/> 
+                  <hi>Roman</hi> Church. Which of our Authors have given this looſe Account? Where has our Church thus ex<g ref="char:EOLhyphen"/>plicated the <hi>Reaſon</hi> of Her <hi>Belief?</hi> When Pagans ſpeak like Chriſtians, we do not condemn them. And if the Poets ſeem to hint in their Fancies at ſomething of our Faith, we ſtill continue to profeſs it.</p>
+               <p>
+                  <note place="margin">Praep. Evang. l. 11. c. 16.</note>
+                  <hi>Euſebius</hi> recounts of <hi>Plato,</hi> that he divided Mankind into three <hi>States.</hi> Some who excell'd in Holineſs of Life, enjoy eternal Felicity, which it is neither poſſi<g ref="char:EOLhyphen"/>ble for any Words to expreſs, nor Thoughts to conceive. Others, who abandon'd themſelves to Vices and Wickedneſs, he ſuppoſed were at their deaths convey'd to Hell, there to be tormented for ever. But now, be<g ref="char:EOLhyphen"/>ſides theſe, he ſpeaks of a <hi>middle</hi> ſort, who, though they had ſinn'd, yet had repented of it; and theſe he thought went down for ſome time into Hell, to be purg'd and abſolv'd by grievous Torments; but after <hi>this,</hi> they ſhould be remov'd, and ſhare in Honours prepared for them. The <hi>Diſcourſer</hi> catches hold of this third <hi>State,</hi> and will have the Church of <hi>Rome</hi> beholden to <hi>Paganiſm</hi> for it, which introduc'd it <hi>be<g ref="char:EOLhyphen"/>fore Chriſtianity was heard of, ſome Hundreds of Years.</hi>
+               </p>
+               <p>This is very remarkable. But, Is not <hi>Hell</hi> and <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> too, as Chriſtians believe them, deſcrib'd by this Pagan <hi>Philoſopher?</hi> Will he call <hi>Hell</hi> a piece of <hi>Pa<g ref="char:EOLhyphen"/>ganiſm,</hi> and renounce <hi>Heaven</hi> upon the ſame ſcore, as he does <hi>Purgatory,</hi> or a <hi>middle State,</hi> where the Dead are reliev'd by the Prayers of the Faithful, becauſe theſe Doctrines are of very <hi>venerable Antiquity,</hi> and <hi>exceeded Chriſtianity for ſome Hundreds of Years?</hi>
+               </p>
+               <p>I warrant ye, the <hi>Diſcourſer</hi> will in his next Pam<g ref="char:EOLhyphen"/>phlet condemn, for the ſame reaſon, the <hi>Old Teſtament,</hi> which was writ long before <hi>Chriſtianity;</hi> and call in queſtion the <hi>New Teſtament</hi> too, which exceeded even
+<pb n="3" facs="tcp:63059:4"/> the Religion by <hi>Law</hi> eſtabliſh'd, <hi>many Hundreds of Years.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the Primitive Church Praying that GOD would be mindful of the Saints.</head>
+               <p>'TIS one thing to Pray to God with reference to the <hi>Saints,</hi> and another to Pray to God for <hi>Souls</hi> departed. The <hi>Primitive</hi> Church meant by praying to God <hi>for all the Saints,</hi> to <hi>honour</hi> the Bleſſed Citizens of Heaven; and beg'd that God, being mindful of them, would, at their <hi>interceſſion,</hi> grant the Faithful upon earth their <hi>Petitions.</hi> Theſe Prayers were <hi>Thankſgivings.</hi> She pray'd to God for <hi>Souls</hi> de<g ref="char:EOLhyphen"/>parted, that he would be pleaſed to remit to them thoſe leſſer <hi>faults,</hi> which they had through humane frailty contracted, and for which they <hi>ſuffer'd</hi> in a <hi>middle</hi> State. Theſe Prayers were Expiations. The preſent <hi>Church</hi> performs her Devotions after the ſame manner. Prayers for the <hi>Deceaſed,</hi> are offer'd as an <hi>Expiation</hi> to God for their Sins;<note n="*" place="margin">
+                     <hi>Con. Trid. Seſſ.</hi> 22. <hi>cap.</hi> 2. Docet Sancta Synodus Sacrificium verè pro<g ref="char:EOLhyphen"/>pitiatorium eſſe — pro Defunctis in Chriſto nondùm ad plenum Purgatis.</note> 
+                  <hi>The holy Sacrifice is an Expiation</hi> (ſays the Council of <hi>Trent) for the Departed in Chriſt not yet throughly purg'd.</hi> Prayers for the <hi>Saints</hi> are directed as a <hi>Thankſgiving</hi> to God, for their Happineſs, whoſe Favour we covet;<note n="*" place="margin">
+                     <hi>Et. cap.</hi> 3. De Sanctorum vic<g ref="char:EOLhyphen"/>toriis gratias agens, eorum patrocinia im<g ref="char:EOLhyphen"/>plorat.</note> 
+                  <hi>Giving Thanks to God,</hi> con<g ref="char:EOLhyphen"/>tinues the ſame OEcumenical Synod, <hi>for their Victories, whoſe protection we implore.</hi>
+               </p>
+               <p>Had the <hi>Diſcourſer</hi> taken this diſtinction, he would not have told us, that he needed no other Evidence,
+<pb n="4" facs="tcp:63059:5"/> than the <hi>Liturgies</hi> of the <hi>Primitive</hi> Church, in which we find them to have pray'd for the beſt of perſons,<note place="margin">Pag. 49.</note> for our <hi>B. Lady,</hi> for the <hi>holy Apoſtles,</hi> &amp;c. to ſhew that they did not pray for the Dead, <hi>with any intent to re<g ref="char:EOLhyphen"/>lieve them</hi> from <hi>Purgatory,</hi> or <hi>place</hi> of puniſhment, <hi>by their Suffrages.</hi> And, I anſwer, we need no other Evidence than theſe publick <hi>Records,</hi> and the very pla<g ref="char:EOLhyphen"/>ces of thoſe <hi>Liturgies</hi> he cites, to prove, that the Pri<g ref="char:EOLhyphen"/>mitive Church meant, by praying that God would be mindful of His <hi>Saints,</hi> to beg their Interceſſion; and by praying for <hi>Souls</hi> departed, <hi>to relieve them.</hi>
+               </p>
+               <p>
+                  <note place="margin">Lit. Aegyp. ex Arab. Con. Uſh.</note>In the Liturgy of the Church of <hi>Aegypt,</hi> aſcrib'd, ſaies the <hi>Diſcourſer</hi> to S. <hi>Baſil,</hi> S. <hi>Gregory Nazianzene,</hi> and S. <hi>Cyril</hi> of <hi>Alexandria,</hi> thus they pray; <hi>Be mindful, O Lord, of thy ſervants, which have pleaſed thee from the beginning, our holy Fathers the Patriarchs, Prophets, Apoſtles, Evangeliſts, and all the</hi> Souls <hi>of the Juſt, which have died in the Faith, eſpecially the holy glorious, and ever more Virgin</hi> Mary, <hi>Mother of God, S.</hi> John <hi>the Fore<g ref="char:EOLhyphen"/>runner, the Baptiſt, and Martyr,</hi> S. Stephen <hi>the firſt Deacon, and Martyr, S.</hi> Mark <hi>the Apoſtle, Evangeliſt and Martyr.</hi>
+               </p>
+               <p>See how fervent the Primitive Church was in this Devotion, which alledges the Memories of Her <hi>Saints,</hi> thereby to move God's mercy towards Sinners. This is confirm'd in the Book of <hi>Exodus,</hi>
+                  <note place="margin">Chap. 32.13.</note> where we read the like preſcription of Prayer. <hi>Remember</hi> Abraham, Iſaac, <hi>and</hi> Iſrael, <hi>thy ſervants, to whom thou ſwareſt, by thy own ſelf, and ſaidſt unto them, I will multiply your Seed as the ſtarrs of Heaven — and our Lord repented (was pacified) of the evil which he thought to do unto his People.</hi> Thus <hi>Moſes</hi> pray'd to God by the Mediation of the holy Patriarchs. A Form of Prayer ſo pleaſing to Heaven, that God having declar'd a little before how
+<pb n="5" facs="tcp:63059:5"/> He would conſume the <hi>Iſraelites</hi> for their <hi>Sin</hi> of Idolatry, the Memories of His holy Servants, though not yet in Heaven, being but laid before Him, He preſently pardon'd them. And how much more eaſi<g ref="char:EOLhyphen"/>ly will he yield himſelf to be overcome by the Inter<g ref="char:EOLhyphen"/>ceſſion of thoſe, who ſing His perpetual Praiſes in e<g ref="char:EOLhyphen"/>ternal Felicity? This is juſt the<note n="*" place="margin">Con. Trid. Seſs. 22 Cap. 3.</note> 
+                  <hi>Roman Catholicks</hi> praying to Saints. How agreeable to the practice of the <hi>Primitive Church!</hi> How conformable to Scri<g ref="char:EOLhyphen"/>pture!</p>
+               <p>In the <hi>Liturgy</hi> of <hi>Constantinople,</hi>
+                  <note place="margin">
+                     <hi>S. Chryſ.</hi> Lit. edit. Goar. in Euchol. <hi>p.</hi> 78. <hi>Par.</hi> 1647.</note> continues the <hi>Diſ<g ref="char:EOLhyphen"/>courſer,</hi> ſaid to be Saint <hi>Chryſoſtom</hi>'s, we find the very ſame. <hi>We offer unto Thee, this reaſonable ſervice, for thoſe who are at Reſt in the Faith, our Fore-Fathers, Fathers, Patriarks, Prophets and Apoſtles, Preachers, Evangeliſts, Martyrs, Confeſſors, Religious Perſons, and for every Spirit perfected in the Faith, eſpecially, for our moſt Holy, Immaculate, and moſt Bleſſed Lady, the Mother of</hi> God, <hi>the ever Virgin Mary.</hi>
+               </p>
+               <p>Here the <hi>Diſcourſer</hi> wiſely ended the Prayer, before he came to <hi>Amen:</hi> Or rather, found his Miſtake, and ſo made a <hi>Pauſe.</hi> The <hi>Liturgy</hi> goes on, raiſing the Praiſes of Our B. <hi>Lady</hi> beyond thoſe of Seraphims. Then adds <hi>the Saint, whoſe Memo<g ref="char:EOLhyphen"/>ry we celebrate, and all the Saints,</hi>
+                  <note place="margin">Ibidem. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>by whoſe Interceſſion we beſeech Thee, O GOD to protect us.</hi> This is the <hi>Reaſon,</hi> which the <hi>Liturgy</hi> gives of the <hi>Primitive Church</hi> praying GOD to be mindful of his <hi>Saints.</hi>
+               </p>
+               <p>If you now ask, but why did <hi>She</hi> pray for <hi>Souls</hi> departed; the following Words of the ſame <hi>Liturgy</hi> will ſatisfy you. <hi>He</hi> (the Prieſt) <hi>ſays for the Dead. For the Reſt and Remiſſion of the ſoul of thy ſervant
+<pb n="6" facs="tcp:63059:6"/> 
+                     <hi>[N]</hi> O GOD inſtate it in a lightſome place,</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>where there is no more any Grief, or Weeping; ſeat it, where it may ſee the ſplendour of Thy Face.</hi> The Prieſt prays for <hi>Reſt;</hi> the <hi>Departed</hi> therefore is in <hi>Pain:</hi> the Prieſt prays for his <hi>Remiſſion;</hi> which ſhews him to be in <hi>Sin.</hi>
+               </p>
+               <p>This is ſo plain of its ſelf, That <hi>Nicholaus Cabaſila,</hi> admir'd, how any one of ordinary Capacity, could ſo groſly miſtake the ſence of the <hi>Liturgy,</hi> as the <hi>Diſcourſer</hi> has done. <hi>Some here are deceiv'd</hi> (ſays this Author) <hi>taking the Commemoration of Saints, as a Prayer made to GOD for them,</hi>
+                  <note place="margin">In Expoſit. Li<g ref="char:EOLhyphen"/>turg. c. 33. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>and not as a Thankſ<g ref="char:EOLhyphen"/>giving. What gave occaſion to this Thought, I cannot imagin: For neither the things themſelves, nor the Words of the Sacrifice, afford any the like Conception. But what do we pray for in reference to them, who ſleep? For Remiſſion of their ſins, for their Inheritance of the Kingdome of GOD; for their Reſt in the Boſome of</hi> Abraham, <hi>with the conſummated Saints.</hi> Thus, the Greek Church pray'd.</p>
+               <p>
+                  <note place="margin">
+                     <p>
+                        <hi>S. Aug. Serm. de Verb. Aplic.</hi> 1.</p>
+                     <p>Ideo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> habet Eccleſiaſtica diſciplina, quod fideles noverunt, cum Martyres eo loco recitantur ad Altare Dei, ubi non pro ipſis oratur, pro caeteris autem Defunctis oratur; injuria eſt enim pro Martyre orare, cujus nos debemus orationibus commendare.</p>
+                  </note>And, this is what St. <hi>Auſtin</hi> affirms of the <hi>Latin Church's</hi> pious Cuſtome, though not well underſtood by Strangers: <hi>The Faithful,</hi> ſays this Father, <hi>know what means this Eccleſiaſtical Duty, when the Martyrs are repeated in their place at the Altar of GOD, where
+<pb n="7" facs="tcp:63059:6"/> Prayers are not offer'd for them, but for other Comme<g ref="char:EOLhyphen"/>morated</hi> Souls <hi>they are offer'd: For it is an Injury to pray for a Martyr, to whoſe Interceſſion we ought to re<g ref="char:EOLhyphen"/>commend our ſelves.</hi> And elſewhere he tells us, how Prayers benefit other <hi>Commemorated Souls.</hi>
+                  <note n="*" place="margin">
+                     <hi>Enchir.</hi> cap. 110 Pro non valdè bonis Propitiatio<g ref="char:EOLhyphen"/>nes ſunt.</note> 
+                  <hi>They are Expiations,</hi> ſays He, <hi>for thoſe who are not very bad.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of the <hi>Greek Church</hi> Praying for the Dead.</head>
+               <p>THE <hi>Diſcourſer</hi> offers Three Reaſons to prove, That the <hi>Greek Church</hi> never pray'd for the <hi>Dead,</hi> with intent to free them from <hi>Purga<g ref="char:EOLhyphen"/>tory,</hi> or a <hi>Middle State,</hi> where they ſuffer <hi>Pain</hi> and <hi>Anguiſh</hi> for the Remainder of their Offences.</p>
+               <p n="1">I.<note place="margin">Diſcourſe <hi>p.</hi> 7.</note> 
+                  <hi>Their Apology penn'd by</hi> Marcus Eugenicus <hi>Arch<g ref="char:EOLhyphen"/>biſhop of</hi> Epheſus, <hi>and preſented to</hi> Cardinal Cuſan, <hi>declares as much.</hi>
+               </p>
+               <p n="2">II. <hi>The Deputies of the Council of</hi> Baſil, <hi>the Year before, poſitively declare, That they neither had received any ſuch Doctrine from their Anceſtors, and therefore, they would never accept it.</hi>
+               </p>
+               <p n="3">III. <hi>The Proceedings of the ſame</hi> Marcus, <hi>and of the Greek Church after, neither of which, would be drawn to conſent to this <g ref="char:V">Ʋ</g>nion.</hi>
+               </p>
+               <p>If what is related by the <hi>Diſcourſer,</hi> may be ſup<g ref="char:EOLhyphen"/>poſed to have been tranſacted (which is much to be ſuſpected) the Three Reaſons alledged, muſt of ne<g ref="char:EOLhyphen"/>ceſſity be underſtood of ſome other Controverſy, than what is under Debate: for this was never contra<g ref="char:EOLhyphen"/>dicted by the <hi>Greek</hi> Church.</p>
+               <p>Indeed, ſome ſingle Perſons may unfortunately have
+<pb n="8" facs="tcp:63059:7"/> fallen into Errour, and ſo ſhare in the forgoing <hi>Rea<g ref="char:EOLhyphen"/>ſons.</hi> And in this ſence, the Firſt <hi>Reaſon</hi> evidences of what mind <hi>Marcus</hi> was, before the Council of <hi>Florence;</hi> but the <hi>Greek Church</hi> alwaies profeſs'd the contrary <hi>Doctrine.</hi> The Second <hi>Reaſon</hi> foretells, how <hi>Marcus</hi> with his Deputy, would not own in the Coun<g ref="char:EOLhyphen"/>cil, to have <hi>received any ſuch Tradition from his An<g ref="char:EOLhyphen"/>ceſtors, and therefore would never accept it;</hi> but the Subſcription of the <hi>Greek</hi> Church is there extant, and Recorded againſt him. The Laſt <hi>Reaſon</hi> concludes <hi>Marcus</hi> continued firm in his former erroneous Reſo<g ref="char:EOLhyphen"/>lution; but the <hi>Greek</hi> Church carried home what She had publickly conſented to, and ſign'd in the <hi>Synod.</hi>
+               </p>
+               <p>But <hi>Marcus</hi> never conſented to the Council's De<g ref="char:EOLhyphen"/>termination; nor did <hi>Arius</hi> to the <hi>Nicean.</hi> And <hi>Ma<g ref="char:EOLhyphen"/>cedonius</hi> was averſe to that of <hi>Conſtantinople;</hi> and <hi>Ne<g ref="char:EOLhyphen"/>ſtorius</hi> never approv'd of the Third <hi>oecumenical</hi> Coun<g ref="char:EOLhyphen"/>cil. O ſtrange Proceeding! The <hi>Diſcourſer's</hi> Cauſe is ſo deſperate, that he's forc'd to rely on an <hi>Apo<g ref="char:EOLhyphen"/>ſtate</hi> from <hi>Faith,</hi> to ſupport it.</p>
+               <div type="part">
+                  <head>The <hi>Greek</hi> Church before the Council of <hi>Florence,</hi>
+                     <note place="margin">Againſt the Firſt Reaſon.</note>
+                  </head>
+                  <p>Perform'd this <hi>Chriſtian</hi> Duty to <hi>Souls</hi> departed in the ſence already ſet down. This is not an Opi<g ref="char:EOLhyphen"/>nion, pick'd out of ſome ſingle <hi>Writer,</hi> or war<g ref="char:EOLhyphen"/>ranted without any <hi>Tradition.</hi> It is the general Pra<g ref="char:EOLhyphen"/>ctice of their <hi>Church,</hi> Authorized in their <hi>Liturgies,</hi> and acknowledg'd in their publick Offices and De<g ref="char:EOLhyphen"/>votions.</p>
+                  <p>The <hi>Liturgy,</hi> which is Aſcrib'd to St. <hi>Chryſoſtom,</hi> prays, That the <hi>Souls</hi> departed, may change their
+<pb n="9" facs="tcp:63059:7"/> Sins, into Pardon; their Pain, into Reſt; their Griefs and Weepings, into Joys and Jubilees of never end<g ref="char:EOLhyphen"/>ing Satisfaction. The Words are already mention'd in the foregoing Chapter.</p>
+                  <p>S. <hi>Baſil</hi>'s Liturgy on <hi>Whit-ſunday</hi> Feaſt,<note place="margin">
+                        <hi>S. Baſ.</hi> Precat. tertia in Pen<g ref="char:EOLhyphen"/>tacoſten. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> uſes the ſame Language. <hi>O GOD, Who vouchſafeſt on this per<g ref="char:EOLhyphen"/>fect, and all-ſaving Feaſt, to receive the Suffrages and Supplications made for the Detained in Hell</hi> (or place of Purgation,) <hi>We earneſtly hope You will import to theſe Impriſon'd, Freedom from Griefs, which encompaſs them, and Conſolation. Hear us abject and miſerable Creatures praying to Thee: Give Reſt to the</hi> Souls <hi>of thy Ser<g ref="char:EOLhyphen"/>vants, before our dayes departed, in a bright place, a flouriſhing place, a place of Cheerfulneſs; where there is no more any pain, ſorrow and ſighing; and ſeat their Souls in the Tabernacles of the Juſt, and of Peace, and Forgiveneſs.</hi>
+                  </p>
+                  <p>In the <hi>Paracletica,</hi> the <hi>Greek</hi> Church thus ſings.<note place="margin">In Paraclet. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>From Tears, and Bewailings, which are heard in Hell, deliver thy Servants O</hi> SAVIOUR. <hi>Hell</hi> is an uſual Word, which ſignifies the Place of the <hi>Damned,</hi> and expreſſes likewiſe the Middle State of <hi>Souls.</hi> Thus the Word <hi>Priſon</hi> expreſſes the Place, where Hainous Malefactors are detained; and ſignifies alſo the <hi>Goal,</hi> into which, thoſe, who commit only Petty Faults and Miſdemeanors, are conducted. We cannot here by the Word <hi>Hell,</hi> underſtand the <hi>everlaſting</hi> Con<g ref="char:EOLhyphen"/>finement: The <hi>Greek</hi> Church holds the Wicked and
+<pb n="10" facs="tcp:63059:8"/> Impious without Redemption. Nor can the <hi>Damned</hi> be called the <hi>Servants</hi> of Chriſt, <hi>Deliver thy Servants, O Saviour.</hi> They are his greateſt Enemies.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>In</hi> Offic. Exeq. <hi>in</hi> Euchol. Goar. p. 526. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>In the Office, they pray; <hi>O let the Soul, Lord, of thy deceaſed Servant <hi>[N]</hi> enjoy reſt in a place of brightneſs, a place of pleaſantneſs and delight, whence all pain, grief, and anguiſh, are baniſh'd: Forgive, as a clement and merciful God, whatever offence may be by</hi> him <hi>committed in word, deed, and thought.</hi>
+                  </p>
+                  <p>In <hi>Officio Fun.</hi> the Prieſt prays, that our B. Lady would intercede to God,<note place="margin">
+                        <hi>In</hi> Offic. Fun. ibidem, pag. 572. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. pag. 577. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>to free the Deceaſed from bit<g ref="char:EOLhyphen"/>ter Torments.</hi>— Afterwards he ſays, <hi>With a doleful Voice we beg the Creator of all things to releaſe the De<g ref="char:EOLhyphen"/>ceaſed, and take pitty on him.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Nich. Athena<g ref="char:EOLhyphen"/>rum Metro<g ref="char:EOLhyphen"/>polis, in Offic. Ol. S. in Ora<g ref="char:EOLhyphen"/>tionibus. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>In <hi>Officio Olei Sancti,</hi> they pray, <hi>O God, Give reſt to the ſoul of thy Deceaſed Servant: Eaſe him of Evils; deliver him from darkneſs; take him out of Priſon, and lodge him where the Juſt inhabit: Looſe his Chains; ſave him from ſtripes; lead him out of Priſon and Darkneſs, and aſſociate him with your Elect.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>
+                     <note place="margin">Againſt the Second Rea<g ref="char:EOLhyphen"/>ſon.</note>The <hi>Greek</hi> Church in the Council of <hi>Florence,</hi>
+                  </head>
+                  <p>Ratifies what we have deliver'd concerning Prayers for the Dead. The Council call'd, and aſſembled;
+<pb n="11" facs="tcp:63059:8"/> the <hi>Latines</hi> forthwith propoſed the Queſtion of <hi>Purga<g ref="char:EOLhyphen"/>tory,</hi> or place where the Dead are tormented, and help'd by the Prayers of the Faithful; The <hi>Greeks</hi> gave this Anſwer: <hi>The Greeks truly hold,</hi>
+                     <note place="margin">Conc. Gen. Labbei Pariſ. pag. 27. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>That in the World to come there is pain, ſorrow, and a place of pain, but no Fire.</hi> The Greeks then never diſputed the being of Purgatory, where <hi>Souls</hi> departed undergo pain, and ſorrow. And the Latins believe no more. For,</p>
+                  <p>In the Laſt Seſſion, the <hi>Proceſſion</hi> of the <hi>Holy Ghoſt</hi> agreed too, on both ſides, all embroils untangled, and diſturbances quieted, the Debate of <hi>Purgatory</hi> was moved again, and reſolved by both Churches, the <hi>Latin</hi> and <hi>Greek</hi> joyning jointly together, that there were Three <hi>States</hi> of the <hi>Dead;</hi> of <hi>Saints</hi> in Heaven; of the <hi>Wicked</hi> in Hell; and of a middle State of <hi>Souls</hi> in a place of Torments, <hi>viz.</hi> of thoſe Chriſtians who had ſinn'd, repented of it, and confeſs'd, yet had not performed Works of <hi>ſatisfaction;</hi>
+                     <note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. &amp; pag. 515. in Def. Conc. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> for which Prayers and Alms are offer'd and given. In this Sence <hi>Joſeph</hi> Patriarch of <hi>Conſtantinople</hi> confeſs'd a <hi>Purgatory</hi> of Souls. And all the <hi>Greeks,</hi> except one or two, ſub<g ref="char:EOLhyphen"/>ſcrib'd to the <hi>Definition</hi> of the Council, worded after this manner. <hi>If truly penitent, they died in the Love of God, before they ſatisfied by worthy fruits of re<g ref="char:EOLhyphen"/>pentance, for what they committed and omitted, their ſouls, after death, are to be purg'd in</hi> Purgatory <hi>pains, and that they may be reliev'd in theſe pains, the ſuffra<g ref="char:EOLhyphen"/>ges of the Faithful living, holy Sacrifices, Alms-deeds, perform'd according to the Church's Inſtitution, are bene<g ref="char:EOLhyphen"/>ficial to them.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="12" facs="tcp:63059:9"/>
+                  <head>
+                     <note place="margin">Againſt the Third Reaſon.</note>The Greek Church after the Council of <hi>Florence,</hi>
+                  </head>
+                  <p>No doubt carried home, what She had alwaies profeſs'd and ſubſcrib'd to in the Council. <hi>Paludanus</hi> asks, <hi>How does the Synod prove Souls to be purg'd after Death?</hi>
+                     <note place="margin">Palud in Diſcep. pro Conc. Fl. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> And An<g ref="char:EOLhyphen"/>ſwers, firſt, <hi>From our own Practiſe;</hi> and after, <hi>From the Teſtimonies of the Holy Fathers.</hi> And the very <hi>Liturgies</hi> that they formerly had in Eſteem, the <hi>Greeks</hi> now reverence. The publick Prayers they Antiently offer'd, are the ſame which they now-a-daies pour forth.</p>
+                  <p>
+                     <note place="margin">Miſſa S. P. Joan. Chry<g ref="char:EOLhyphen"/>ſoſt. Pag. 28. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>The Prieſt prays thus in the Maſs, which the pre<g ref="char:EOLhyphen"/>ſent <hi>Greeks</hi> now ſay in <hi>Rome, for the Dead; O</hi> GOD, <hi>that the ſoul of thy departed ſervant <hi>[N]</hi> may enjoy Reſt, and obtain Pardon; ſeat it in the place of Light, where no ſorrow, nor bemoanings are heard; place it where it may wait on the ſplendor of thy Countenance.</hi>
+                  </p>
+                  <p>
+                     <hi>Gabriel Severus</hi> aſſures us, that as the well-meaning <hi>Greeks</hi> alwaies did, ſo do they at preſent pray with in<g ref="char:EOLhyphen"/>tent to free the Detained in a <hi>middle State</hi> of <hi>pain</hi> and ſorrow.<note place="margin">Gab. Sever. Philadelphien. de Purg. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> The <hi>Apoſtles,</hi> ſays this Greek, <hi>and who ſuc<g ref="char:EOLhyphen"/>ceeded them, the Prelates, and Prieſts, and the whole Order of Orthodox Perſons, pray'd like ſervants with de<g ref="char:EOLhyphen"/>jected minds; and now pray GOD for the faithful Ortho<g ref="char:EOLhyphen"/>dox
+<pb n="13" facs="tcp:63059:9"/> deceaſed Chriſtians, that they may be freed from their Torments, and obtain Pardon of their Sins.</hi>
+                  </p>
+                  <p>I end this Chapter with the misfortune of <hi>Marcus Eugenicus.</hi> For, <hi>what is worſe,</hi>
+                     <note place="margin">Georg. Sch. ult. ſeſſ. conc. Florentini. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> ſaid <hi>Georgius Scholarius</hi> in the Council of <hi>Florence, What is worſe, than that one man, of what Dignity ſoever he be, ſhould oppoſe an OEcumenical Synod, which repreſents the <g ref="char:V">Ʋ</g>niverſal Church of GOD.</hi>
+                  </p>
+                  <p>The <hi>Greek</hi> Church then alwaies held Prayers for the Dead, as part of a Chriſtians duty; and this too, with intent to free thoſe Chriſtians who had ſinned, but repented, yet had not perform'd Works of ſatiſ<g ref="char:EOLhyphen"/>faction, from a Middle State of ſouls, a <hi>Priſon</hi> of confinement, tears, ſorrows, ſighings, pains, darkneſs, evils, ſtripes, chains, and bitter torments. If this be not to pray with deſign to deliver ſouls departed out of Purgatory, I know not what it means.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of the diverſe Opinions of the Fathers concerning the State of Men after Death.</head>
+               <p>A Midſt the Variety of Opinions, the <hi>Diſcourſer</hi> ſingles out Three, which he gueſſed to be moſt fit to his preſent purpoſe, and which ſeem to have been among the ancient Fathers, concerning the State of Men after Death, more generally received.<note place="margin">Bellar. de SS. Beat. 1. c. 5.</note>
+               </p>
+               <p n="1">I. That the <hi>Souls</hi> departed do not ſtraightway go to Heaven, but remain in a place of <hi>ſequeſter,</hi> a plea<g ref="char:EOLhyphen"/>ſant
+<pb n="14" facs="tcp:63059:10"/> State, free of trouble and pain, yet earneſtly ex<g ref="char:EOLhyphen"/>pecting their final Conſummation in Glory.</p>
+               <p>
+                  <note place="margin">Euſeb. Hiſt. l. 3. c. 39.</note>An other Opinion there was of the <hi>Millenary</hi> King<g ref="char:EOLhyphen"/>dom, That thoſe of the <hi>Faithful,</hi> whoſe Piety had been moſt eminent, ſhould reign a thouſand years in all delights with <hi>Chriſt</hi> upon earth.</p>
+               <p>A Third Opinion, and that too, not without Pa<g ref="char:EOLhyphen"/>trons, was, That all men being rais'd up at the Laſt Day, ſhould paſs through a certain <hi>probatory</hi> Fire, in which every man ſhould be ſcorched and purified, ſome more, others leſs, according as they had lived, better or worſer Lives here upon earth.</p>
+               <p>
+                  <note place="margin">Pag. 47.</note>The Firſt, ſays the Diſcourſer, <hi>Pray'd that GOD would comfort them in the boſome of</hi> Abraham, <hi>with the bleſſed Company of Holy Angels, and the Viſion of our Saviour</hi> Chriſt, <hi>till the wiſhed for day of Judgment ſhould come. The Second flattered themſelves, That by their Prayers, they might haſten the Felicity of their Friends; and accordingly pray'd for their ſpeedy riſing in Chriſt</hi>'s <hi>Kingdom. The Third ſort pray'd that</hi> God <hi>would have Mercy on their Dead at the laſt day, and not ſuffer them to be ſo much ſing'd and burnt in the General Conflagration, at the end of the World.</hi> How true theſe things are, I ſhall not enquire. The Diſ<g ref="char:EOLhyphen"/>courſer advances them without proof, and holds them no more than <hi>Opinions.</hi> This is ſufficient for me at preſent.</p>
+               <p>
+                  <note place="margin">Pag. 5.</note>But the Diſcourſer avers, <hi>that it is from theſe Opi<g ref="char:EOLhyphen"/>nions, That thoſe of the Roman Communion impoſe upon the unwary, their pretence of Antiquity for this Doc<g ref="char:EOLhyphen"/>trine.</hi> Confidence will aſſert any thing. And I expec<g ref="char:EOLhyphen"/>ted a great Warranty for this bold Aſſertion. And may expect long enough, before I get one; for the <hi>Diſcourſer</hi> is ſo far from thinking of this, that he has not as yet
+<pb n="15" facs="tcp:63059:10"/> made Choice of which of theſe Opinions he ſhall pitch upon to do our buſineſs; and therefore barely aſſerts, <hi>from theſe Opinions it is,</hi> but he knows not from which of them it is; or rather he knows 'tis from none of them, nor upon any other pretence whatſo<g ref="char:EOLhyphen"/>ever, do the <hi>Roman Catholicks</hi> endeavour, to impoſe up<g ref="char:EOLhyphen"/>on the <hi>
+                     <g ref="char:V">Ʋ</g>nwary.</hi> This indeed he waranted ſufficiently, wiping off in ſome manner, the foregoing Aſperſion,<note place="margin">Diſc. p. 10.</note> by taking care to tell the Reader, That he allow'd of what <hi>Natalis Alexander</hi> ſaid, to be the <hi>Belief</hi> in this point of the <hi>Roman</hi> Church.<note place="margin">
+                     <hi>Nat. Alexand. Sec.</hi> 4. <hi>par.</hi> 3. <hi>pag.</hi> 352. Id unum ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Catholicos inter &amp; Pro<g ref="char:EOLhyphen"/>teſtantes in Controverſi<g ref="char:EOLhyphen"/>am venit u<g ref="char:EOLhyphen"/>trum Fides doceat ali<g ref="char:EOLhyphen"/>quem eſſe defunctorum ſtatum in quo poenis temporaneis expientur, à quibus, Eccleſiae precibus liberari, vel in ijs ſublevari poſſint.</note> Theſe are <hi>Natalis</hi>'s Words; <hi>The only thing therefore, that is in Controverſy between Catholicks and Proteſtants, is this, whether Faith teaches there is a State of the Dead, in which they ſhall be expiated by temporary Puniſhments, and from which they may be freed, or otherwiſe helped by the Prayers of the Church.</hi>
+               </p>
+               <p>How far diſtant this <hi>Belief</hi> and Senſe of <hi>Roman-Catholicks</hi> is from the Three mentioned <hi>Opinions,</hi> a ſhort peruſal, and ſlight compariſon, will abundantly evidence. For the Firſt, that place of <hi>Sequeſter,</hi> was free, as the <hi>Diſcourſer</hi> will have it, of all pain and trou<g ref="char:EOLhyphen"/>ble: And the Second, that of the <hi>Millenary</hi> King<g ref="char:EOLhyphen"/>dom, overflow'd with ſatisfactions; there is no Sin in either of them, to be pardon'd; no penalty to be endur'd, which are the Motives, Why <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> pray, that <hi>God</hi> will be pleas'd to help the <hi>de<g ref="char:EOLhyphen"/>tained</hi> in a <hi>Middle</hi> State, or Purgatory. Nor can the laſt State, <hi>viz.</hi> that of the <hi>general Conflagration,</hi> enter into this preſent Controverſy, becauſe it has not as yet a Being, it only will be,<note place="margin">Diſc. pag. 5.</note> ſays the <hi>Diſcourſer in
+<pb n="16" facs="tcp:63059:11"/> the end of the World.</hi> And what is convincing, the <hi>Diſcourſer</hi> acknowledges all this to be true, where he ſays, <hi>It is evident to any one that ſhall pleaſe to com<g ref="char:EOLhyphen"/>pare theſe with the Account I ſhall hereafter give of the preſent</hi> Roman <hi>Purgatory, how vaſtly different they were from what is now propoſed to us as an Article of Faith.</hi>
+               </p>
+               <p>'Tis very true, That <hi>Roman Catholicks</hi> diſtinguiſh between Faith and Opinion, what they now believe in this preſent Controverſy, was alwaies lookt upon, as part of a <hi>Chriſtians</hi> duty. But I cannot ſee how <hi>Reformers</hi> can allow of any ſuch diſtinction. Opinion increas'd their pretended Reformation of Religion, in<g ref="char:EOLhyphen"/>to Thirty Nine Articles. But <hi>Roman Catholicks</hi> are the Old Church, with which <hi>Chriſt</hi> has promis'd, and his Promiſes are certain, to be preſent, till the end of the World.<note place="margin">Nihil inno<g ref="char:EOLhyphen"/>vetur, niſi quod tradi<g ref="char:EOLhyphen"/>tum eſt.</note> She daily repeats what bleſſed <hi>Pope Stephen</hi> ſaid in the Third Age, in the Voice of Her ſurviving and chief <hi>Paſtors</hi> upon Earth; <hi>Let nothing of Novelty be introduc'd, keep what you have from Tra<g ref="char:EOLhyphen"/>dition.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> What it is the Church of <hi>Rome</hi> means by Pray<g ref="char:EOLhyphen"/>ing for the Dead.</head>
+               <p>
+                  <hi>I Have already given a ſhort, and as I think, ſatiſ<g ref="char:EOLhyphen"/>factory Account of</hi> this,<note place="margin">Chap. 3.</note> 
+                  <hi>in the Decree of the</hi> Council <hi>of</hi> Florence, <hi>where it is determin'd, That we pray for the Faithful</hi> deceaſed, <hi>who have not ſuffici<g ref="char:EOLhyphen"/>ently ſatisfy'd, here upon earth, for their Offences for which they now</hi> ſuffer, <hi>that God would be pleas'd to free them from theſe Sufferings.</hi>
+               </p>
+               <pb n="17" facs="tcp:63059:11"/>
+               <p>
+                  <hi>The Council of</hi> Trent <hi>teaches the very ſame,</hi>
+                  <note place="margin">
+                     <hi>Concil. Trid. Seſs.</hi> 22. <hi>cap.</hi> 2. Docet ſancta ſynodus ſacrificium i<g ref="char:EOLhyphen"/>ſtud vere pro<g ref="char:EOLhyphen"/>pitiatorium eſſe—quod non ſolùm pro fidelium vivorum peccatis, poenis, ſatisfactionibus, &amp; alijs neceſſitatibus, ſed &amp; pro defunctis in Chriſto nondum ad plenum purgatis, rité juxta Apoſtolorum Tra<g ref="char:EOLhyphen"/>ditionem, offertur.</note> That the Sacrifice is an Expiation offer'd, not only for the ſins, pains, ſatisfactions, and other neceſſities of the Living; but alſo for the deceaſed in Chriſt, not yet fully purg'd, according to the Tradition of the Apoſtles.</p>
+               <p>
+                  <hi>In the Third Canon of the ſame Seſſion,</hi>
+                  <note place="margin">
+                     <hi>Seſs.</hi> 22. <hi>Can.</hi> 3. Si quis dixerit Miſſa Sacrificium non eſſe pro<g ref="char:EOLhyphen"/>pitiatorium, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pro Vi<g ref="char:EOLhyphen"/>vis &amp; Defun<g ref="char:EOLhyphen"/>ctis, pro peccatis, poenis, ſatisfactionibus, &amp; alijs neceſſitatibus, offerri debere; Ana<g ref="char:EOLhyphen"/>thema ſit.</note> 
+                  <hi>the ſame Council thus reſolves;</hi> If any ſhall ſay, that the Maſs is not a propitiatory Sacrifice, nor ought to be offered for the Living and the Dead, for their ſins, pains, ſatisfac<g ref="char:EOLhyphen"/>tions, and other neceſſities, let him be <hi>Anathema.</hi>
+               </p>
+               <p>
+                  <hi>And in the Decree of Purgatory, we find theſe Words;</hi> Since the Catholick Church,<note place="margin">
+                     <hi>Seſs.</hi> 25. <hi>De<g ref="char:EOLhyphen"/>cretum de Pur.</hi> Cum Catho<g ref="char:EOLhyphen"/>lica Eccleſia, Spiritu ſancto educta, ex ſa<g ref="char:EOLhyphen"/>cris Literis, &amp; antiqua Pa<g ref="char:EOLhyphen"/>trum-Traditi<g ref="char:EOLhyphen"/>one, in ſacris Conciliis, &amp; noviſſime in hâc OEcumenica Synodo docuerit, Purgatorium eſſe, Animasque ibi deten<g ref="char:EOLhyphen"/>tas, fidelium Suffragiis, potiſſimum verò acceptabili Altaris Sacrificio juvari, praecipit ſancta Synodus, <hi>&amp;c.</hi>
+                  </note> inſpir'd by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, has from Holy Scriptures, and Ancient Tradi<g ref="char:EOLhyphen"/>tion of Fathers, taught in Holy Councils, and laſt of all, in this OEcumenical Synod, that there is a Purgatory, and that the Souls there detained, are help'd by the Suffrages of the Faithful; eſpecially, by the acceptable Sacrifice of the Altar, the holy Synod commands, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Our</hi> Article <hi>of Belief is thus worded in our pro<g ref="char:EOLhyphen"/>feſſion of Faith,</hi>
+                  <note place="margin">
+                     <hi>Apud Conc. Trid. Seſs.</hi> 25. <hi>in fine.</hi> Con<g ref="char:EOLhyphen"/>ſtanter teneo Purgatorium eſſe, Animasque ibi detentas Fidelium Suffragijs juvari.</note> 
+                  <hi>couch'd in the</hi> Bulla <hi>of</hi> Pius <hi>the</hi> Fourth; I firmly hold, that there is a Purgatory, <hi>(or
+<pb n="18" facs="tcp:63059:12"/> middle State)</hi> and that the Souls there retained, are help'd by the Suffrages of the Faithful.</p>
+               <p>
+                  <hi>In the Canon of the Maſs, the</hi> Prieſt <hi>makes this Commemoration of the Dead;</hi>
+                  <note place="margin">
+                     <hi>In Can. Miſſ.</hi> Memento eti<g ref="char:EOLhyphen"/>am famulo<g ref="char:EOLhyphen"/>rum, famula<g ref="char:EOLhyphen"/>rumque tua<g ref="char:EOLhyphen"/>rum <hi>N.</hi> &amp; <hi>N.</hi> qui nos praeceſſerunt, cum ſigno Fidei, &amp; dormiunt in ſomno Pacis.</note> Be mindful O Lord, of thy ſervants <hi>N.</hi> and <hi>N.</hi> who are gone before us, with the ſign of Faith, and reſt in the ſleep of Peace.</p>
+               <p>
+                  <hi>Here are mention'd ſuch Dead as are pray'd for in particular.</hi>
+               </p>
+               <p>
+                  <note place="margin">Ipſis Domine, &amp; omnibus in Chriſto qui<g ref="char:EOLhyphen"/>eſcentibus lo<g ref="char:EOLhyphen"/>cum refrige<g ref="char:EOLhyphen"/>rij, lucis, &amp; pacis, ut indulgeas deprecamur. Per eundem Chriſtum Dominum no<g ref="char:EOLhyphen"/>ſtrum. <hi>Amen.</hi>
+                  </note>To whom O Lord, and to all that reſt in Chriſt, grant we beſeech Thee, a place of refreſhment, of light, and of peace: through the ſame Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>In Miſſ. De<g ref="char:EOLhyphen"/>funct.</hi> Fide<g ref="char:EOLhyphen"/>lium Deus omnium Con<g ref="char:EOLhyphen"/>ditor &amp; Re<g ref="char:EOLhyphen"/>demptor, ani<g ref="char:EOLhyphen"/>mabus ſamu<g ref="char:EOLhyphen"/>lorum, famu<g ref="char:EOLhyphen"/>larum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tua<g ref="char:EOLhyphen"/>rum remiſſionem cunctorum tribue peccatorum, ut indulgentiam, quam ſemper opta<g ref="char:EOLhyphen"/>verunt, Piis ſupplicationibus conſequantur.</note>
+                  <hi>And in the Maſs for the Dead, he prays thus;</hi> O God, the Creator and Redeemer of the Faithful,; grant to the ſouls of thy ſervants, both men and women, remiſſion of all their ſins, that by the pious ſupplications of the faithful for them, they may obtain the Pardon, they have alwaies wiſhed for.</p>
+               <p>
+                  <hi>Tho' the Cuſtom, Intention, and Belief of the</hi> Ro<g ref="char:EOLhyphen"/>man Catholick <hi>Church, be fully laid down and mani<g ref="char:EOLhyphen"/>feſted from theſe publick Records, as to what She means by praying for</hi> ſouls <hi>departed, yet perhaps, the repeating of them in ſome few Reflections, may not be ungrateful to meaners Capacities.</hi>
+               </p>
+               <div type="reflection">
+                  <pb n="19" facs="tcp:63059:12"/>
+                  <head>I. <hi>Reflection.</hi>
+                  </head>
+                  <p>WE pray for all Sinners, though never ſo great; of whoſe Salvation we have ſome Signs and Hopes at their departing hour: For theſe may be call'd the Faithful deceaſed.<note place="margin">Conc. Flor. Seſs. ult. in Definit. Fidei.</note> This is what the Council of <hi>Florence</hi> includes in theſe Words: <hi>If they dyed truly penitent in the Love of God.</hi> They may be called <hi>the de<g ref="char:EOLhyphen"/>ceaſed in Chriſt,</hi> as the Council of <hi>Trent</hi> expreſſes it;<note place="margin">Con. Trid. Seſs. 22. c. 2.</note> and <hi>the Souls of thy Servants,</hi> as the Prieſt prays for them in the Maſs for the <hi>Dead.</hi>
+                  </p>
+                  <p>Nor ought we to be blamed, for complying with this pious Exerciſe; though ſome of the deceaſed, for whom Prayers are offer'd, ſhould be really in <hi>Heaven,</hi> or in <hi>Hell;</hi> for in doubtful things, the ſecureſt is beſt to be choſen. And Prayers, ſome wayes or other, ſtill prove beneficial. S. <hi>Auſtin</hi> illuſtrates this, after his uſual manner, with great ſenſe and approbation: <hi>When Offerings, either of the Altar,</hi> ſays this Father, <hi>or of Alms, are ordered for all the Dead who were Baptiſed in Chriſt,</hi>
+                     <note place="margin">
+                        <hi>S. Aug. Enchir.</hi> 110. Cum ergo Sacrifica, ſive Altaris, ſive quarumcun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Eleemoſynarum pro Ba<g ref="char:EOLhyphen"/>ptizatis defunctis omnibus offeruntur, pro valdè bonis, gratiarum actiones ſunt, pro non valde malis, propitia<g ref="char:EOLhyphen"/>tiones ſunt; pro valdè malis, &amp; ſi nulla ſunt Adjumenta Mortuorum, qualeſcun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Vivorum Conſolationes ſunt.</note> 
+                     <hi>if they be made for the very Good;</hi> or Saints, <hi>they are thankſgivings; if for them, who are not very Bad,</hi> or in a middle State, <hi>they are Expia<g ref="char:EOLhyphen"/>tions; if for the very Wicked,</hi> or <hi>the</hi> Damned, <hi>although they prove not advantagious to theſe unfortunate De<g ref="char:EOLhyphen"/>ceaſed; yet they become Conſolations to the Living.</hi> They are Witneſſes of the performance of their Chriſtian Charity.</p>
+               </div>
+               <div type="reflection">
+                  <pb n="20" facs="tcp:63059:13"/>
+                  <head>II. <hi>Reflection.</hi>
+                  </head>
+                  <p>VVE pray that God would be pleas'd to leſſen the <hi>pain,</hi> which the <hi>Faithful</hi> deceaſed endure in a middle <hi>State.</hi>
+                     <note place="margin">Conc. Flor. in Decret.</note> The Council of <hi>Florence</hi> declares, we pray with intent <hi>to free them from their Sufferings;</hi> that of <hi>Trent</hi> affirms,<note place="margin">Con. Trid. Seſs. 22. Can. 3.</note> 
+                     <hi>The ſacrifice is offer'd as an Expiation for their pains;</hi> the <hi>Prieſt</hi> at Maſs in the <hi>Memento,</hi> begs, <hi>That God would grant them a place of Refreſhment.</hi>
+                  </p>
+                  <p>What this <hi>Pain</hi> ſubſtantially conſiſts in, the Church allowing of a Middle <hi>State,</hi> concludes to be the <hi>ſuſ<g ref="char:EOLhyphen"/>penſion</hi> of ſeeing God; which muſts needs be grievous, in regard the Object expected, is ſo earneſtly deſired. For <hi>Hope prolong'd,</hi>
+                     <note place="margin">
+                        <hi>Proverb.</hi> Spes quae dif<g ref="char:EOLhyphen"/>fertur affligit Animam.</note> as the wiſe Man teaches, <hi>torments the Soul.</hi>
+                  </p>
+                  <p>How far this <hi>ſuſpenſion</hi> of ſeeing God is extended; whether accompanied with grief, or darkneſs, or an<g ref="char:EOLhyphen"/>guiſh, or real fire, <hi/> when theſe pains are to end; where undergon, in the dusky aire, where the Devils dwell, or under ground, or elſewhere; are School-Queſtions, variouſly agitated by <hi>Divines,</hi> and apper<g ref="char:EOLhyphen"/>tain not to Faith. But we are ſure there is ſome pains to be endur'd, becauſe there is ſomthing of ſins re<g ref="char:EOLhyphen"/>main, to be purg'd and pardon'd.</p>
+               </div>
+               <div type="reflection">
+                  <head>III. <hi>Reflection.</hi>
+                  </head>
+                  <p>THe cauſe of Pain, is Sin: Sin conſiſts of Two Parts: The <hi>Fault</hi> which ſtains the Soul: and the <hi>Guilt,</hi> which Renders it Liable to puniſhment.
+<pb n="21" facs="tcp:63059:13"/> If the Sin be mortal, eternal; if venial, it muſt be temporal: For all Sin deſerves ſome puniſhment. Now beſides eternal pain, which the <hi>Fault</hi> of all mortal Sin carries along with it, there remains ſome<g ref="char:EOLhyphen"/>times at leaſt the <hi>Guilt</hi> of ſome temporal penalty due to the Juſtice of God, to be paid in this world, or in the next. The Church has pronounced this Truth, in theſe Words of the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent;</hi>
+                     <note place="margin">
+                        <hi>Conc. Trid. Can.</hi> 30. <hi>Seſs.</hi> 6. Si quis poſt acceptam Juſtificationis gratiam, cuilibet peccatori poenitenti ita Culpam remitti, &amp; reatum aeter<g ref="char:EOLhyphen"/>nae poenae deleri dixerit, ut nullus remaneat reatus poenae temporalis ex<g ref="char:EOLhyphen"/>ſolvendae, vel in hoc ſaeculo, vel in futuro, in Purgatorio, antequam ad regna Coelorum aditus patere poſſit, Anathema ſit.</note> 
+                     <hi>If any one ſhall ſay, That the</hi> Fault <hi>after the Grace of Juſtification, is ſo remitted to eve<g ref="char:EOLhyphen"/>ry penitent Sinner, and the Guilt of eternal Puniſhment is ſo blotted out, that there remains no</hi> Guilt <hi>of tem<g ref="char:EOLhyphen"/>poral pain to be paid for, now, or hereafter in Purgatory, before there be an Entrance granted into the Kingdom of Heaven, let him be Anathema.</hi> And <hi>GOD</hi> has revealed the ſame in Holy Scriptures. Is it not true, That the <hi>Fault,</hi> and <hi>Guilt</hi> of eternal Puniſhment of the firſt <hi>Sin,</hi> which we call <hi>Original,</hi> are both expiated, and and quite waſh'd away in the waters of Baptiſm? And yet there remains a <hi>Guilt</hi> of temporal Afflicti<g ref="char:EOLhyphen"/>on to be undergone, that of <hi>Death.</hi>
+                     <note place="margin">Rom. 5.12.</note> We muſt all die. Again, the <hi>Iſraelites</hi> grievouſly offended God by murmuring. <hi>Moſes</hi> interceded for them.<note place="margin">Numb. 14.</note> 
+                     <hi>And our Lord ſaid I have forgiven it.</hi> And yet God with the ſame breath declares, That he has not remitted the <hi>temporal</hi> Puniſhment, which remains due to His Divine Juſtice. This they are to pay. Their Fathers are excluded the Land of <hi>Canaan,</hi> and die in the Wil<g ref="char:EOLhyphen"/>derneſs. And their Children wander forty Years in the Deſert.</p>
+                  <p>This <hi>Guilt</hi> of temporal Penalty, which is oftentimes
+<pb n="22" facs="tcp:63059:14"/> the remainder of mortal Sin remitted, retains the name of <hi>Sin.</hi> Thus the Evening, or <hi>Remainder</hi> of the day, is not improperly ſtill call'd <hi>day.</hi> And it is up<g ref="char:EOLhyphen"/>on this Account, and for leſſer, or <hi>venial</hi> Sins; whoſe <hi>Fault,</hi> whilſt the Sinner liv'd upon earth, is not for<g ref="char:EOLhyphen"/>given, or <hi>Guilt</hi> not pardon'd; that we generally pray God to remit to <hi>Souls</hi> departed,<note place="margin">Con. Flor. in Decret.</note> their <hi>Sins; who have not ſufficiently ſatisfied for their Offences,</hi> ſays the Coun<g ref="char:EOLhyphen"/>cil of <hi>Florence;</hi> for <hi>their Sins and Satisfactions,</hi> de<g ref="char:EOLhyphen"/>crees the Council of <hi>Trent;</hi>
+                     <note place="margin">Conc. Trid. Can. 3. Seſs. 22.</note> 
+                     <hi>for the Remiſſion of all their Sins,</hi> prays the Prieſt in the Maſs for the Dead.</p>
+               </div>
+               <div type="reflection">
+                  <head>IV. <hi>Reflection.</hi>
+                  </head>
+                  <p>I Cloſe the Controverſy between <hi>Catholicks</hi> and <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> in this narrow Compaſs, whether, <hi>We ought to believe that the Dead in Purgatory are help'd by the Prayers of the Living,</hi> as our <hi>Article</hi> of Faith words it: or (which is the ſame thing, and con<g ref="char:EOLhyphen"/>tains all) whether, <hi>It be part of a Chriſtians Duty to pray,</hi> (as the Prieſt does at Maſs) <hi>that God will re<g ref="char:EOLhyphen"/>mit to Souls departed, their Sins.</hi> The <hi>Diſcourſer</hi> can<g ref="char:EOLhyphen"/>not blame me for omitting the word <hi>Pain,</hi> in my Propoſition. For if there be any <hi>detained</hi> in a <hi>mid<g ref="char:EOLhyphen"/>dle State,</hi> whoſe <hi>Sins</hi> are not yet fully purg'd, or if they be <hi>ſmall</hi> ones, and entirely remain; there is without diſpute, ſome Penalty to be undergone for them. This is undeniably true, becauſe all <hi>Sin,</hi> as the <hi>Diſcourſer</hi> acknowledges, <hi>infers an Obligation to Puniſhment.</hi>
+                     <note place="margin">Page 31.</note>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="23" facs="tcp:63059:14"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Why <hi>Roman Catholicks</hi> believe the Dead are help'd by Prayers.</head>
+               <p>IF you ask me the <hi>Formal Reaſon,</hi> Why <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> believe it to be a part of a Chriſtians du<g ref="char:EOLhyphen"/>ty to pray for the Faithful deceaſed; I anſwer, Becauſe God has taught us ſo. <hi>Apoſtolical Tradition</hi> aſſures us of it; the Practiſe of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church</hi> confirms it; <hi>Holy Scriptures</hi> authoriſe it.</p>
+               <p>We do not pretend that <hi>Sciptures</hi> have any where <hi>commanded</hi> this Doctrine.<note place="margin">
+                     <hi>Tertull. l. de Coron. Mil. c,</hi> 4. Si Le<g ref="char:EOLhyphen"/>gem expoſtu<g ref="char:EOLhyphen"/>les Scriptura<g ref="char:EOLhyphen"/>rum, nullam invenies.</note> 
+                  <hi>If you ſeek a Precept in the</hi> Scriptures, ſays <hi>Tertullian, you cannot find any.</hi> Nor is this abſolutely neceſſary, to make it a part of <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> duty. It is abundantly ſufficient for this Obli<g ref="char:EOLhyphen"/>gation; if firſt, it be recommended to us by <hi>Reve<g ref="char:EOLhyphen"/>lation</hi> from Heaven; and ſecondly, propos'd to the Faithful, or practis'd by the Univerſal Church of <hi>CHRIST.</hi> The <hi>Will</hi> of <hi>GOD,</hi> or <hi>Revelation,</hi> is recommended to us in <hi>Holy Scriptures,</hi> or convey'd to us by the <hi>Apoſtles</hi> and their <hi>Succeſſors.</hi> The <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Church</hi> is either taken <hi>diffuſively,</hi> as it is ſpread over the World; or <hi>collectively,</hi> as it is aſſembled in an OEcumenical Synod, which repreſents the whole Church. All Four conſpire together to confirm <hi>Ro<g ref="char:EOLhyphen"/>man Catholicks</hi> in their Belief of Praying for the <hi>Dead;</hi> and to confound their Oppoſers. The Holy Scriptures recommend it in many places to the Faithful. The A<g ref="char:EOLhyphen"/>poſtles taught it. The Univerſal Church practis'd it. And General Councils have defin'd it.</p>
+               <pb n="24" facs="tcp:63059:15"/>
+               <p>As for General <hi>Councils,</hi> I have alledg'd already, Two very plain Ones; that of <hi>Florence,</hi> and that of <hi>Trent.</hi> The Council of <hi>Trent</hi> pretended no <hi>Command</hi> in Scripture for this Doctrine. We read it decreed by the <hi>Tridentine</hi> Fathers, becauſe the Apoſtles taught it; <hi>according to the Tradition of the Apoſtles,</hi> declares this OEcumenical Synod, in the 2d. <hi>Chap.</hi> &amp; 22d. <hi>Seſſion;</hi> and becauſe it is recommended in the Scri<g ref="char:EOLhyphen"/>ptures, the ſame Council, in the Decree of Purga<g ref="char:EOLhyphen"/>tory, determines Prayers for the <hi>Dead, from the Scri<g ref="char:EOLhyphen"/>ptures.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of the Univerſal Church Praying for the Dead.</head>
+               <p>TO ackowledge Prayers offer'd by the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church</hi> of <hi>CHRIST,</hi> with intent to expiate the Sins of <hi>Souls</hi> departed, in a middle State, is to believe this Pious Cuſtome came from the Di<g ref="char:EOLhyphen"/>vine <hi>Apoſtles.</hi>
+                  <note place="margin">
+                     <hi>S. Aug. Ep.</hi> 118. Quod univerſa tenet Eccle<g ref="char:EOLhyphen"/>ſia, nec à Conciliis inſtitu<g ref="char:EOLhyphen"/>tum, ſed ſemper retentum eſt, nonniſi authoritate A<g ref="char:EOLhyphen"/>poſtolica traditum rectiſſimè creditur.</note> For, as S. <hi>Auſtin</hi> obſerves, <hi>What the whole Church holds, and was not Inſtituted by Councils, but was alwaies re<g ref="char:EOLhyphen"/>tain'd, is moſt truly believed to come from Apoſtolical Tradition.</hi> In finding out then one of theſe, we learn both of them. Our Maſters ſhall be the holy <hi>Pen-men</hi> of Primitive Times.</p>
+               <div type="part">
+                  <head>Petrus Venerabilis</head>
+                  <p>Writing againſt the <hi>Petrobruſian</hi> Hereticks; thus exhorts all <hi>Chriſtians</hi> out of the Book of <hi>Maccabees</hi>
+                     <pb n="25" facs="tcp:63059:15"/> to pray for the Dead. <hi>The Faithful</hi> Jews <hi>pray'd for the heinous Offences of their Dead; that, what they had Committed,</hi>
+                     <note place="margin">
+                        <hi>Ep.</hi> 2. <hi>cont. Petrob. Cap.</hi> 5. Rogant fideles Judaei pro delictis tam gravi<g ref="char:EOLhyphen"/>bus defunctorum, ut quod fecerant, oblivioni traderetur, &amp; non rogabunt fideles Chriſtiani pro defunctis in ſpe bona fidelibus eundem Deum, ut eis nondum plenè laxata Peccata remit<g ref="char:EOLhyphen"/>tantur? Rogaverunt hoc illi adhuc in tempore irae, &amp; non rogabunt hoc iſti in tempore gratiae?</note> 
+                     <hi>might totally he forgiven; and the faithful Chriſtians will not pray for their faithful piouſly departed, that their ſins not fully remitted, may by the ſame GOD be Pardon'd? The Jews pray'd in the time of An<g ref="char:EOLhyphen"/>ger; and Chriſtians are negligent in the day of Grace?</hi> Is not this to pray with intent, as <hi>Roman Catholicks</hi> do, that God will remit to ſouls departed, their ſins? And what follows will not give you leave to doubt that this pious Devotion was be<g ref="char:EOLhyphen"/>liev'd the duty of Chriſtians in thoſe dayes.<note n="*" place="margin">
+                        <hi>Ibidem.</hi> Qui bona vivorum Mortuis, qui digni ſunt prodeſſe dene<g ref="char:EOLhyphen"/>gat, ad com<g ref="char:EOLhyphen"/>munis fidei laeſionem per<g ref="char:EOLhyphen"/>tinere cognoſ<g ref="char:EOLhyphen"/>cat.</note> 
+                     <hi>Let him,</hi> continues this Venerable Writer, <hi>that denies the good Works of the Living to be advantagious to the Dead, who deſerve them, know that he makes a Breach in Faith.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>Bernard</hi>
+                  </head>
+                  <p>Calls them, who deny this pious Doctrine, <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> and <hi>Hypocrites. Is it not,</hi> ſays this Saint,<note place="margin">
+                        <hi>Super Cantica Ser.</hi> 66. <hi>pag.</hi> 762. Non ſufficit haereticos eſſe, niſi &amp; hy<g ref="char:EOLhyphen"/>pocritae ſint. Mortuos viventium frau<g ref="char:EOLhyphen"/>dantes auxilijs, non credunt ignem Purgatorium reſtare poſt mortem.</note> 
+                     <hi>ſufficient for them to be Hereticks, unleſs they be Hypocrites too.</hi> They are Here<g ref="char:EOLhyphen"/>ticks, becauſe <hi>they Defraud the Dead of help from the Living, nor do they believe that there remaines after Death Pur<g ref="char:EOLhyphen"/>gatory Fire.</hi> As Hypocrites, they make a fair ſhew, and pretending to follow the pure Word of God.</p>
+               </div>
+               <div type="part">
+                  <pb n="26" facs="tcp:63059:16"/>
+                  <head>S. <hi>Iſidore</hi> of <hi>Spain</hi>
+                  </head>
+                  <p>Says, <hi>Becauſe ſacrifice and prayers are offer'd thorow the whole world for the reſt of the Faithful Deceaſed,</hi>
+                     <note place="margin">S. <hi>Iſid. Hiſp. l.</hi> 1. <hi>de Offic. Eccles. c.</hi> 18. Sacrificium pro Defunctorum fidelium requie offerri, vel pro eis orari, quia per totum hoc Orbem cuſtoditur, cre<g ref="char:EOLhyphen"/>dimus quod ab ipſis Apoſtolis tradi<g ref="char:EOLhyphen"/>tum ſit. Hoc enim ubi<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Catholica tenet Eccleſia; quae niſi crederet fide<g ref="char:EOLhyphen"/>libus defunctis dimitti peccata, non pro eorum ſpiritibus vel Eleemoſy<g ref="char:EOLhyphen"/>nam faceret, vel Deo ſacrificium of<g ref="char:EOLhyphen"/>ferret.</note> 
+                     <hi>we believe this Cuſtom comes from the Apoſtles</hi> themſelves. <hi>For the Ca<g ref="char:EOLhyphen"/>tholick Church every where obſerves this; Nor would She give Alms, or of<g ref="char:EOLhyphen"/>fer Sacrifice for Souls Departed, unleſs ſhe believ'd the Faithful De<g ref="char:EOLhyphen"/>ceaſed, receiv'd pardon of their Sins.</hi> Nothing can be more fully expreſt for Roman Catho<g ref="char:EOLhyphen"/>licks. <hi>Firſt,</hi> Prayers are offer'd for the Faithful de<g ref="char:EOLhyphen"/>ceaſed. <hi>Secondly,</hi> For their Reſt, and Remiſſion of their Sins. <hi>Thirdly,</hi> The Catholick Church thorow the whole world practis'd the ſame. <hi>Fourthly,</hi> 'Twas believ'd <hi>Apoſtolical Tradition.</hi> And ſhall a pretended Reformer ſtart up, without any warrant of a new <hi>Revelation</hi> from Heaven, and baniſh this Pious Devo<g ref="char:EOLhyphen"/>tion, and contradict the whole Church of God, and teach contrary to what the Bleſſed Apoſtles deli<g ref="char:EOLhyphen"/>ver'd.</p>
+               </div>
+               <div type="part">
+                  <head>S. Gregorie <hi>the Great,</hi>
+                  </head>
+                  <p>Eminent for Learning and Piety, and with whom the whole Church of Chriſt communicated in Reli<g ref="char:EOLhyphen"/>gion,<note place="margin">page 6.</note> the <hi>Diſcourſer</hi> of his own accord gives up as one of ours, ſo would he if he were juſt, give us all the <hi>Fathers.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="27" facs="tcp:63059:16"/>
+                  <head>The Council of Calcedon,</head>
+                  <p>Or the Fourth <hi>General,</hi> which the <hi>Religion by Law</hi> Eſtabliſh'd reverences, approves of the ſame <hi>Doctrine,</hi> Recording to Poſterity what was laid to <hi>Dioſcorus</hi>'s Charge, who was condemn'd by the Synod. Amongſt others of the Accuſations, which were brought againſt him, we find that he was impeach'd, and ſaid to have diſpos'd of a great ſumm of Money, contrary to the Deceaſed's deſires, who gave it with intent to be pray'd for.<note place="margin">Conc. Calc. an. 451. Tom. 4. Conc. Lab. Pag. 401. Act. 3. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>But no body,</hi> ſays the Acts of this <hi>OEcu<g ref="char:EOLhyphen"/>menical</hi> Synod, <hi>is ignorant of the buſineſs of the Renowned</hi> Periſteria <hi>of Happy Memory. For She Com<g ref="char:EOLhyphen"/>manded in her laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, a conſiderable ſumm of Mo<g ref="char:EOLhyphen"/>ney to be given for her Soul to Mo<g ref="char:EOLhyphen"/>naſteries, Hoſpitals, Alms-Houſes, and to the Poor of the Aegyptian Province. And yet by the diſpoſal of</hi> Dioſcorus, things were ſo Or<g ref="char:EOLhyphen"/>der'd, <hi>That as much as lay in him, even Incenſe was not offer'd from the Sacrifice to GOD, in Remembrance of the moſt Illuſtrious deceaſed</hi> Periſteria. The <hi>Acts</hi> take Notice, <hi>Firſt,</hi> That this Lady gave Money, with intent, that after her Death, the Prayers of the Faith<g ref="char:EOLhyphen"/>ful ſhould benefit her Soul.<note place="margin">In Bulla pii Pont.</note> This is our <hi>Article</hi> of Faith, which obliges us <hi>firmly to hold, that the Dead are help'd by the Prayers of the Living. Secondly,</hi> This was the Practice of the whole Church, becauſe
+<pb n="28" facs="tcp:63059:17"/> ſpoken of with approbation in an <hi>OEcumenical</hi> Council, and <hi>no body,</hi> ſay the Acts, was ignorant of it. <hi>Thirdly,</hi> The hinderance of this Devotion was look'd upon as a great <hi>Crime.</hi> 'Twas laid to <hi>Dioſcorus</hi>'s Charge, <hi>In as much as lay in him, Sacrifice was not offered for the Deceaſed.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Theodoretus,</head>
+                  <p>Who liv'd at the ſame time that this general Coun<g ref="char:EOLhyphen"/>cil was aſſembled, gives us another confirmation, not of a private Perſon, praying in his Oratory for the <hi>Soul</hi> of his deceaſed Friend, but of the Emperor <hi>Theo<g ref="char:EOLhyphen"/>doſius,</hi> proſtrating himſelf before the Reliques of St. <hi>John Chryſoſtom,</hi>
+                     <note place="margin">Theod. l. 5. Hiſtor. c. 36. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> and praying for the <hi>Souls</hi> of his de<g ref="char:EOLhyphen"/>ceaſed Parents, <hi>Arcadius</hi> and <hi>Eudoxia. His looks,</hi> ſayes this Hiſtorian, <hi>and eyes fix'd on the Tombe of this Holy Man</hi> (St. Chryſoſtom) <hi>he let tears fall for his Parents, and he beg'd that he</hi> (the Saint) <hi>would obtain pardon for them, of their faults contracted through ignorance. For long before this, his Parents were dead, and he was left very young, and an Orphan.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>St. <hi>Auſtin</hi>
+                  </head>
+                  <p>
+                     <hi>Is ſo clear in this</hi> Controverſy <hi>for</hi> Roman <hi>Catholicks, that</hi> Calvin <hi>had not confidence enough to deny it. Theſe are the Saints words:</hi>
+                     <note place="margin">St. <hi>Aug. Serm.</hi> 34. <hi>de verbis Apoſtoli.</hi> O<g ref="char:EOLhyphen"/>rationibus S<hi rend="sup">t.</hi> Eccleſiae, &amp; Sacrificio ſalutari, &amp; eleemoſynis quae pro illorum ſpiritibus erogantur, non eſt dubitandum mortuos adjuvari ut cum eis miſeri cordiùs agatur à Do<g ref="char:EOLhyphen"/>mino, quam eorum peccata meruerunt. Hoc enim à Patribus traditum univerſa obſer<g ref="char:EOLhyphen"/>vat Eccleſia; ut pro eis, qui in corporis &amp; ſanguinis Chriſti communione defuncti ſunt. cum ad ipſum ſacrificium loco ſuo commemorantur, Oretur.</note> Funeral Pomps, atten<g ref="char:EOLhyphen"/>dance of Obſequies, rich conſtructure of Monuments are
+<pb n="25" facs="tcp:63059:17"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="26" facs="tcp:63059:18"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="27" facs="tcp:63059:18"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="28" facs="tcp:63059:19"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="29" facs="tcp:63059:19"/> ſome Comfort to the Living, and no Relief to the Dead. But it is not at all to be doubted, that the Prayers of the holy Church, the wholeſome Sacrifice, and Alms-deeds given for the deceaſed, are beneficial to the Dead, that God might deal more mildly with them, than their ſins have deſerv'd. For this which was delivered by our fore-Fathers, the <g ref="char:V">Ʋ</g>niverſal Church obſerves, to pray for thoſe who are departed in the Communion of the Body and Blood of <hi>Chriſt,</hi> when they are commemorated in their place at the Sacrifice. <hi>Thus S.</hi> Auſtin. <hi>And thus</hi> Ro<g ref="char:EOLhyphen"/>man Catholicks. We pray for the Faithful deceaſed; <hi>S.</hi> Auſtin <hi>prays for the ſame;</hi> for thoſe who are departed in the Communion of the Body and Blood of <hi>Chriſt: We pray with intent, that God may eaſe their Suffe<g ref="char:EOLhyphen"/>rings, ſo did S.</hi> Auſtin, That God might deal more meekly with them than their Sins have deſerv'd. <hi>We look upon this as part of our Chriſtian Duty; ſo did S.</hi> Auſtin; For this which has been deliver'd by our fore-Fathers, the <g ref="char:V">Ʋ</g>niverſal Church obſerves.</p>
+                  <p>
+                     <hi>Nor is this Learned</hi> Father <hi>contented here. He reckons the oppoſite Errour,</hi> He<g ref="char:EOLhyphen"/>retical. The Aerian Hereticks,<note place="margin">
+                        <hi>De Haeres. num</hi> 53. <hi>de Aerio.</hi> Aëriani ab Aerio quodam ſunt nomi<g ref="char:EOLhyphen"/>nati, qui cum eſſet Preſbyter doluiſſe fertur quod Epiſcopus non potuit or<g ref="char:EOLhyphen"/>dinari, &amp; in Arianorum haereſim lap<g ref="char:EOLhyphen"/>ſus, propria quoque dogmata addi<g ref="char:EOLhyphen"/>diſſe nonnulla, dicens, orare vel offer<g ref="char:EOLhyphen"/>re pro Mortuis oblationem non opor<g ref="char:EOLhyphen"/>tere — contra iſta ſentit Eccleſia Ca<g ref="char:EOLhyphen"/>tholica.</note> 
+                     <hi>ſayes he,</hi> take their Name from <hi>Aerius,</hi> who being a Prieſt, was griev'd that he could not get a Biſhoprick, and being fallen into the Arian Hereſy; he added ſome of his own peculiar Doctrines, <hi>ſaying,</hi> We ought not to pray, nor offer ſacrifice for the Dead.— The Catholick Church teaches the contrary. <hi>This</hi> Aerius <hi>is the firſt Man we read of, who deny'd Prayers for the Dead. In what ſenſe he deny'd them, S.</hi> Auſtin <hi>declares,</hi> viz. <hi>in the ſenſe oppoſite,</hi> to what the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Church obſerv'd. <hi>Now the Univerſal Church
+<pb n="30" facs="tcp:63059:20"/> pray'd, as this Holy Father obſerves, with intent to eaſe the Deceaſed in their Sufferings,</hi> That GOD might deal more meekly with them, than their Sins deſerv'd.</p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>Hierome</hi>
+                  </head>
+                  <p>Vindicates himſelf from <hi>Origen</hi>'s Error, in which ſome would involve him,<note place="margin">In Proverb. cap. 2. <hi>Mor<g ref="char:EOLhyphen"/>tuo homine in<g ref="char:EOLhyphen"/>iquo nulla erit ultra Spes.</hi> Heu miſere hanc ſenten<g ref="char:EOLhyphen"/>tiam pertran<g ref="char:EOLhyphen"/>ſijt <hi>Origenes</hi> qui poſt uni<g ref="char:EOLhyphen"/>verſale extre<g ref="char:EOLhyphen"/>mum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> judi<g ref="char:EOLhyphen"/>cium vitam credit omni<g ref="char:EOLhyphen"/>bus impiis &amp; peccatoribus dandum. No<g ref="char:EOLhyphen"/>tandum au<g ref="char:EOLhyphen"/>tem, quod et<g ref="char:EOLhyphen"/>ſi impiis poſt Mortem ſpes veniae non eſt ſunt tamen qui de levioribus peccatis, cum quibus obligati defuncti ſunt, poſt Mortem abſolvi poſſunt; vel poenis videlicet caſtigati, vel ſuorum precibus, &amp; eleemoſynis, Miſſarumque celebrationibus; ſed haec quibuſcunque fiunt, &amp; ante judicium, &amp; de le<g ref="char:EOLhyphen"/>vioribus fiunt erratis.</note> writing thus upon this paſſage of the <hi>Proverbs; <hi>The Wicked Man dead, all Hope is ended;</hi> ah Miſery!</hi> Origen <hi>over-look'd this ſentence, who believ'd, that Life would be given, after the laſt and univerſal Judgment, to all the Wicked and Sinners.</hi> What follows is the Belief of the Church, which S. <hi>Hierome</hi> ſtamps with a <hi>Notandum. But take Notice,</hi> ſayes he, <hi>although there be no Hope of Pardon after Death for the Wicked; yet there are ſome, who may be abſolv'd after Death, from leſſer Faults, with which they dyed ingag'd,</hi> viz. <hi>expiated either by Pains, or Prayers of their Friends, or Alms-deeds, or ſaying of Maſſes; but theſe things, for whomſoever they are perform'd, are done before</hi> (the Laſt) <hi>Judgment, and that too, for leſſer Offences.</hi>
+                  </p>
+                  <p>If you ask what anciently were the Devotions for the <hi>Dead;</hi> you have here <hi>Prayers,</hi> and <hi>Alms-deeds,</hi> and ſaying of <hi>Maſſes</hi> preſcrib'd; a word, which is ſo diſagreeable to the fondlings of New <hi>Religions.</hi> If you would know why the <hi>Dead</hi> are detain'd in a <hi>middle</hi> State, S. <hi>Jerome</hi> tells you, becauſe, when they
+<pb n="31" facs="tcp:63059:20"/> dyed, <hi>they were involved in leſſer Faults.</hi> If you urge on, and ſay, they do not ſuffer there; this Fa<g ref="char:EOLhyphen"/>ther replyes, their Faults are <hi>expiated by ſuffering Pains.</hi>
+                  </p>
+                  <p>Had the <hi>Diſcourſer</hi> ſeen this evident Teſtimony, ſure he would not have triumph'd, that in S. <hi>Jerome</hi> there was no mention of thoſe,<note place="margin">Pag. 23. &amp; 24.</note> 
+                     <hi>who depart this Life in a ſtate of Charity, to be puniſh'd in Purgatory,</hi> or a middle ſtate of Souls; ſure he would not have vaunted, <hi>that if he did not with</hi> Rufinus, <hi>accuſe him of being involv'd in the Error of</hi> Origen; <hi>yet</hi> Bellar<g ref="char:EOLhyphen"/>min <hi>himſelf cannot deny him to have been charg'd with an Opinion not very much differing from it,</hi> viz. that <hi>All Catholick Chriſtians, ſhall in the end be ſaved, af<g ref="char:EOLhyphen"/>ter they have been tryed and purifyed in the Fire of the laſt Judgment.</hi> Rather than he will have a <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> without Error, he will be twice injurious to him. When I find any paſſage of a <hi>Father</hi> dubious, or hard to be underſtood, I ſtraightway compare it with clearer and eaſier, about the ſame matter, and ſo gather its meaning. Thus if I ſhould read in S. <hi>Jerome,</hi> that all <hi>Catholicks ſhall in the end be ſa<g ref="char:EOLhyphen"/>ved after they are purifyed,</hi> or, that Chriſtians, <hi>if they be overtaken in their ſins, ſhall be ſaved after Puniſhment:</hi> I ſtraightway ſuppoſe, if theſe ſins be <hi>mortal,</hi> they have repented of them; and that all Catholicks, whom God has order'd to be tryed and purifyed, ſhall after be ſaved. Now, theſe cannot be all Catholick Chriſtians, generally ſpeaking, but only thoſe who depart this Life in Charity, which is compatible with leſſer, or venial Faults. And theſe are to be purg'd, not at the day of Judgment, but before this dreadful day. This is not my Opi<g ref="char:EOLhyphen"/>nion, 'tis S. <hi>Jerom</hi>'s own interpretation; in the end
+<pb n="32" facs="tcp:63059:21"/> of the foregoing Teſtimony; <hi>but, by whomſoever Pains are undergone, or Prayers</hi> offer'd, <hi>they are done before Judgment; and that too for leſſer Offences.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>Epiphanius</hi>
+                  </head>
+                  <p>Charges <hi>Aerius</hi> with the ſame <hi>Error,</hi> which we have read S. <hi>Auſtin</hi> imputed to him; <hi>that he oppoſed, men<g ref="char:EOLhyphen"/>tioning the Names of the Dead; asking to what purpoſe they did it? He that is alive, prayeth, or offereth the Sacrifice; What ſhall this advantage the Dead? But if the Dead are indeed profited thereby, then let no man from henceforth trouble himſelf to live well, only let him oblige his Friends, or give Money to per<g ref="char:EOLhyphen"/>ſons to pray for him, that none of the inexpiable ſins he hath commited may be required of him.</hi> This is the Caſe of <hi>Aerius</hi> in the <hi>Diſcourſer.</hi>
+                     <note place="margin">Diſc. p. 53.</note> Can any <hi>Re<g ref="char:EOLhyphen"/>former</hi> Argue better againſt the Church of <hi>Rome,</hi> than this Heretick does againſt S. <hi>Epiphanius. Aerius</hi> asks <hi>to what purpoſe they pray for the Dead, S. Epi<g ref="char:EOLhyphen"/>phanius</hi> anſwers to benefit them.</p>
+                  <p>
+                     <hi>Aerius</hi> preſſes forwards, if <hi>Prayers profit the Dead, let no man endeavour to live well, only let him give Money to be Pray'd for, That none of thoſe inexpi<g ref="char:EOLhyphen"/>able Sins he hath Committed, may be required of him.</hi>
+                  </p>
+                  <p>S. <hi>Epiphanius</hi> replyes, that <hi>theſe Prayers do not extinguiſh all ſort of Faults.</hi> They only purify the ſtains of ſmaller Offences; which this <hi>Father</hi> calls <hi>Slips,</hi> of the <hi>Perfect. But for the moſt part,</hi> ſays he, <hi>they therefore profit us, becauſe when we enjoy'd this
+<pb n="33" facs="tcp:63059:21"/> World, we wilfully,</hi>
+                     <note place="margin">S. <hi>Epiph. haec</hi> 75. <hi>pag.</hi> 911. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, &amp;c.</note> 
+                     <hi>yet with relu<g ref="char:EOLhyphen"/>ctancy fail'd, an evident ſign of a more perfect Condition. We do therefore make Commemoration of the Juſt, and of ſinners</hi> (of whoſe Salvation we have ſome hope.) <hi>For ſinners we implore Gods Mer<g ref="char:EOLhyphen"/>cy. For the Juſt, we honour our Saviour Chriſt.</hi> Here are Pray<g ref="char:EOLhyphen"/>ers manifeſtly offer'd for Expiation of Sin, not for notorious Crimes; for theſe, no expiation can be made in the World to come. They were offer'd for ſmaller Faults, with which the Sinner laden, depar<g ref="char:EOLhyphen"/>ted, and for which he ſuffers in a middle State, and therefore <hi>Gods Mercy</hi> was implor'd for him.</p>
+                  <p>
+                     <hi>Laſtly,</hi> S. <hi>Epiphanius</hi> aſſures us, the Anſwer he gave, was that of the Church, <hi>unalterable;</hi> and therefore not to be call'd in queſtion by a private <hi>Reformer. And I ſay,</hi> purſues this Father,<note place="margin">Ibidem Num. ult. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>the Church neceſſarily performs this</hi> (Chriſtian Duty) <hi>who receiv'd it, deliver'd to Her from Her Anceſtors. But can any one break the Order of his Mother, or Law of his Fa<g ref="char:EOLhyphen"/>ther?</hi> In <hi>Salomon</hi> 'tis written, <hi>Hear O Son, the Words of thy Father, and do not deſpiſe the Law of thy Mo<g ref="char:EOLhyphen"/>ther; declaring, That the Father, who is</hi> God, <hi>His only begotten Son, and the Holy Ghoſt, have taught us by the written and unwritten Word; and that our Mo<g ref="char:EOLhyphen"/>ther
+<pb n="34" facs="tcp:63059:22"/> the Church, has ſome Laws in her own Hand, which neither can be diſſolv'd nor broken. From theſe Laws eſtabliſh'd in the Church, which are laudable ones, and full of administration, this Impoſtor is convinc'd.</hi> Language, which I heartily wiſh the Pretended <hi>Re<g ref="char:EOLhyphen"/>formers</hi> would learn to ſpeak!</p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>Chryſoſtom</hi>
+                  </head>
+                  <p>Is very copious in his exhorting Chriſtians to pray for the Dead. I'lle content my ſelf with one ſingle paſſage,<note place="margin">Hom. 3. in Ep. Phillip. Edit. Etonae P. 20. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> but ſo plain a one, that none but a <hi>Roman Catholick</hi> could have ſpoken it. <hi>Not in vain,</hi> ſayes he, <hi>is it Enacted by the Apoſtles, that in the dreadful Myſteries Commemoration be made of the Dead. They</hi> (the Apoſtles) <hi>knew very well, how much profit,</hi> from hence, <hi>and benefit accrews to their Souls. For when all people ſtand</hi> (at their Devotions before the Altar) <hi>with lifted up Hands, and the Quire of Prieſts, and the dreadful Sacrifice, exciting Veneration, how ſhall we fail to appeaſe GOD, in praying for them? And this truly is to be underſtood of thoſe who departed in the Faith.</hi>
+                  </p>
+                  <p>S. <hi>Chryſoſtom</hi> ſays the Dead are help'd by the Pray<g ref="char:EOLhyphen"/>ers of the Living, <hi>much profit from hence accrews to them:</hi> And the Reformers deny it. St. <hi>Chryſoſtom</hi> ſays the <hi>Pain</hi> hereby, which the Dead ſuffer, is allevi<g ref="char:EOLhyphen"/>ated,
+<pb n="35" facs="tcp:63059:22"/> 
+                     <hi>how ſhall we fail to appeaſe God in praying for them?</hi> And is not his Anger attended with Puniſhment? And the Reformers hold it <hi>a fond Invention.</hi> S. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> ſays, this pious Cuſtom receiv'd its authority from Apoſtolical Tradition, <hi>not in vain Enacted by the Apoſtles:</hi> and the Reformers contradict it. S. <hi>Chryſoſtom</hi> admoniſhes us, that theſe Prayers only belong to them who die with hopes of Salvation, <hi>They are ſaid for thoſe who departed in the Faith:</hi>
+                     <note place="margin">Diſc. pag. 65.</note> And the Refor<g ref="char:EOLhyphen"/>mers explicate him corruptedly of the <hi>Damned.</hi> O wonderful Piety of Reformers! Rather than they ſhould not be cruel to their Dead, they labour to pervert the Writings of the <hi>Fathers:</hi> Yet I ceaſe to be ſurpriz'd, why they exclude the <hi>Dead</hi> from their Prayers, when I conſider how they baniſh <hi>Chriſt</hi> from their <hi>Altar,</hi> and aboliſh the dreadful <hi>Sacrifice.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Euſebius Caeſarienſis</head>
+                  <p>Speaks of the earneſt deſire, which <hi>Conſtantine</hi> the Great had, to be pray'd for after Death, who took care, that his Corps ſhould be intomb'd near the ſhrines of the Bleſſed Apoſtles, whether all pious Peo<g ref="char:EOLhyphen"/>ple reſorted to perform the Devotions for the Dead, to <hi>GOD</hi> and his Saints. <hi>He choſe,</hi> ſays <hi>Euſebius,</hi>
+                     <note place="margin">Lib 4. de vita Conſt. c. 60. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.—</note> 
+                     <hi>this place of Repoſal with an incredible Cheerful<g ref="char:EOLhyphen"/>neſs of Faith, foreſeeing that he ſhould ſhare after Death in their Prayers, which were ſaid in honour of the Apo<g ref="char:EOLhyphen"/>ſtles,
+<pb n="36" facs="tcp:63059:23"/> —believing that their Remembrance would exceed<g ref="char:EOLhyphen"/>ingly profit his Soul; nor was he fruſtrated of his ex<g ref="char:EOLhyphen"/>pectation. An innumerable Multi<g ref="char:EOLhyphen"/>tude of People with the Prieſts of God,</hi>
+                     <note place="margin">Ibidem Cap. 71. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>not without Lamentation, and with many tears, offer'd Prayers to God for the Soul of the Empe<g ref="char:EOLhyphen"/>ror.</hi> Theſe Prayers were offer'd with intent to relieve the Emperor's Soul; <hi>Conſtan<g ref="char:EOLhyphen"/>tine believ'd, that the Interceſſion of the Apoſtles to God for him, would profit his departed Soul exceedingly.</hi> And this muſt be to free him from the confinement of a <hi>middle</hi> ſtate. It could not be that of the <hi>Damned</hi> in Hell, <hi>Euſebius</hi> had never ſuch an impious thought of <hi>Conſtantine.</hi> It could not be that of Heaven; the bleſſed Apoſtles there, were to interceed for him. It muſt then be that of Purgatory, wherein, if detain'd, the Emperor believ'd that the prayers of the Faithful would relieve him.</p>
+                  <p>There is no reaſon in the world to underſtand this <hi>Third State</hi> after death, of the Diſcourſers place of <hi>Sequeſter</hi> which was fill'd with quietneſs, nor of the <hi>Millenary</hi> Kingdom, which abounded with delights. <hi>Euſebius</hi> was never accus'd of theſe <hi>errors,</hi> nor ought he to be taxed with theſe <hi>Opinions.</hi> And what re<g ref="char:EOLhyphen"/>moves all doubt, is that he ſpeaks of the Third <hi>State</hi> above mentioned, not as an <hi>Opinion,</hi> but delivers it as the cuſtom of the <hi>univerſal Church.</hi> This is veri<g ref="char:EOLhyphen"/>fied by the devotions of the people of the whole Em<g ref="char:EOLhyphen"/>pire, who pray'd to God for the <hi>Soul</hi> of the departed Emperor. Nor could it be leſs than the <hi>Sentiment</hi> of the firſt <hi>
+                        <g ref="char:V">Ʋ</g>niverſal</hi> Council, becauſe it was that of <hi>Con<g ref="char:EOLhyphen"/>ſtantine,</hi> and <hi>Euſebius,</hi> who both ſate in this Synod among the Nicean Fathers, of whom <hi>Conſtantine</hi> re<g ref="char:EOLhyphen"/>ceiv'd moſt of his inſtructions.</p>
+               </div>
+               <div type="part">
+                  <pb n="37" facs="tcp:63059:23"/>
+                  <head>Arnobius</head>
+                  <p>Tells us, how Chriſtians labouring under Perſecu<g ref="char:EOLhyphen"/>tion, were not permitted the reaſonable Exerciſe of their Religion; which made them thus to complain; <hi>Why ſhould our Chappels be ſo outragiouſly thrown down,</hi>
+                     <note place="margin">
+                        <hi>Lib.</hi> 4. <hi>Adu. Gent. Pag. ult.</hi> Cur im<g ref="char:EOLhyphen"/>maniter Conventicula dirui (merue<g ref="char:EOLhyphen"/>runt) in quibus ſummus oratur De<g ref="char:EOLhyphen"/>us, pax cunctis &amp; venia poſtulatur, Magiſtratibus, Exercitibus, Regibus, Familiaribus, Inimicis, adhuc vitam degentibus, &amp; reſolutis Corporum vinctione.</note> 
+                     <hi>in which Prayers were offer'd to our ſove<g ref="char:EOLhyphen"/>raign God, peace and pardon was implor'd for all, for Magiſtrates, Armies, Kings, Friends and Foes, whether alive or dead?</hi> This is exactly what the Council of <hi>Trent</hi> has defin'd;<note place="margin">Seſs. 22. Can. 3.</note> 
+                     <hi>Prayers offer'd for the living and the dead, for their ſins, pains and ſatisfactions.</hi> Did not Chriſtians anciently pray for one another, that they might be abſolv'd from their ſins and ſatisfa<g ref="char:EOLhyphen"/>ctions? And why muſt not the Dead ſhare in theſe Prayers? <hi>Arnobius</hi> affirms, they pray'd for all, <hi>whe<g ref="char:EOLhyphen"/>ther alive or dead?</hi> Why do you divide them? And theſe dead were in <hi>pain</hi> or inquietude, becauſe they pray'd for <hi>peace.</hi> They were in <hi>ſin,</hi> becauſe <hi>par<g ref="char:EOLhyphen"/>don</hi> was implor'd for them. If this be not to pray for <hi>Souls</hi> in Purgatory, the <hi>Diſcourſer</hi> has forg'd a new one of his one.</p>
+               </div>
+               <div type="part">
+                  <pb n="38" facs="tcp:63059:24"/>
+                  <head>Tertullian</head>
+                  <p>Exhorts Widows to be mindful in their Devotions of the <hi>ſouls</hi> of their deceaſed Husbands, after this manner,<note place="margin">
+                        <hi>De Monoga<g ref="char:EOLhyphen"/>mia.</hi> Pro a<g ref="char:EOLhyphen"/>nima ejus o<g ref="char:EOLhyphen"/>ret, &amp; refri<g ref="char:EOLhyphen"/>gerium inte<g ref="char:EOLhyphen"/>rim adpoſtu<g ref="char:EOLhyphen"/>let ei, &amp; in primà Reſurectione conſortium, &amp; offerat annuis diebus dormitionis ejus.</note> 
+                     <hi>Let her pray for his ſoul, and beg now for him, eaſe</hi> or <hi>refreſhment, and his company in the firſt Reſurrection, and let her ſee ſacrifice be offer'd yearly for him, on the day of his departure.</hi>
+                  </p>
+                  <p>Here are Prayers offer'd with intent to free the dead from <hi>pain</hi> and anguiſh. We pray, for what is wanting. Now <hi>Tertullian</hi> exhorts Widows to pray for <hi>eaſe</hi> for their Husbands; therefore they wanted <hi>eaſe,</hi> and ſo were in <hi>pain.</hi> He exhorted them to pray for <hi>refreſhment;</hi> they wanted then <hi>refreſhment,</hi> and ſo were in <hi>anguiſh.</hi>
+                  </p>
+                  <p>This <hi>eaſe</hi> or <hi>refreſhment</hi> was not beg'd for them in the <hi>Millenary Kingdom,</hi>
+                     <note place="margin">Diſc. pag. 47. <hi>Tertull.</hi> Refri<g ref="char:EOLhyphen"/>gerium <hi>inte<g ref="char:EOLhyphen"/>rim</hi> adpoſtu<g ref="char:EOLhyphen"/>let ei. Diſc. pag. 4.</note> of which the <hi>Diſcourſer</hi> would underſtand the <hi>firſt Reſurrection.</hi> For <hi>Tertullian</hi> exhorts them to beg <hi>this refreſhment now for the Dead, before the firſt Reſurrection.</hi> Nor can this be expoun<g ref="char:EOLhyphen"/>ded of the <hi>Diſcourſers</hi> place of <hi>ſequeſter.</hi> Here, nei<g ref="char:EOLhyphen"/>ther Eaſe nor Refreſhment was wanting: And of this, <hi>Tertullian</hi> ſpeaks no where.</p>
+                  <p>And this Exhortation of praying for the Dead, was grounded on the then Univerſal Practiſe of the Church. Had it been otherwiſe, the Writers of thoſe times, would have reply'd, 'twas a Novelty which <hi>Tertullian</hi> brought into the Church, and ſo have ſilenc'd
+<pb n="39" facs="tcp:63059:24"/> him. Thus they oppoſed with all their might, the Error of <hi>Montanus,</hi> towards which, I know <hi>Tertullian</hi> was at this time much inclin'd. But what has the rigid Er<g ref="char:EOLhyphen"/>ror of the <hi>Montaniſts,</hi> which allow'd of no Repen<g ref="char:EOLhyphen"/>tance in this life for the relapſed into grievous and notorious ſins, to do with this pious <hi>cuſtom</hi> which ex<g ref="char:EOLhyphen"/>tends devotion even after death, to <hi>Souls</hi> departed? And what is conſiderable, thoſe Books which <hi>Tertul<g ref="char:EOLhyphen"/>lian</hi> wrote, when he could not be cenſur'd of the ſuſpition of being a <hi>Montaniſt,</hi> deliver the ſame do<g ref="char:EOLhyphen"/>ctrine. Thus he ſays, in his Book,<note place="margin">Oblationes pro defunctis, pro natalitijs annuà die fa-, cimus.</note> 
+                     <hi>de Corona Mili<g ref="char:EOLhyphen"/>tis,</hi> and third Chapter, that <hi>we offer ſacrifices for the dead, and keep the anniverſary of their Birth.</hi> Obla<g ref="char:EOLhyphen"/>tions and Anniverſaries ought not to be confounded; <hi>Oblations</hi> are for the Faithful not yet fully purg'd, <hi>Anniverſaries</hi> in <hi>honor</hi> of the Saints. 'Tis S. <hi>Gregory Nazianzen's</hi> Explication: <hi>Some,</hi> ſays he, <hi>we perform,</hi>
+                     <note place="margin">
+                        <hi>S. Greg. Nazian. Orat. in laud. Caeſarij.</hi> Alia quidem perſolvimus, alia vero dabimus, anniverſarios Honores, &amp; Commemorationes offerentes.</note> 
+                     <hi>and ſome we give. We perform Anniverſary Ho<g ref="char:EOLhyphen"/>nors, we give Commemorations,</hi> (or Oblations, when Commemoration of the dead is made). With what intent theſe Ob<g ref="char:EOLhyphen"/>blations were made, <hi>Tertullian</hi> teaches us elſewhere, <hi>for leſſer Faults,</hi> for which the dead are impriſon'd, <hi>he</hi> (GOD) <hi>will caſt thee into the infernal Goal,</hi>
+                     <note place="margin">
+                        <hi>Tertull. de Anima c.</hi> 35. Ille te in Carcerem mandet infernum, unde non dimitteris, niſi modico quo<g ref="char:EOLhyphen"/>que delicto, mora Reſurrectionis, ex<g ref="char:EOLhyphen"/>penſo.</note> 
+                     <hi>whence thou ſhalt not go forth, until the ſmalleſt Fault be expiated in the delay of Reſurre<g ref="char:EOLhyphen"/>ction.</hi> And finally, <hi>Tertullian</hi> af<g ref="char:EOLhyphen"/>firms this <hi>middle</hi> ſtate, or <hi>priſon,</hi> where ſmaller Faults are to be expiated, before the detained go to Heaven, <hi>into the delay of Reſurrection,</hi> to be part of what the Church believ'd, in theſe Words, <hi>If you ask a Command for this in Scripture,
+<pb n="40" facs="tcp:63059:25"/> there is none to be found.</hi>
+                     <note place="margin">
+                        <hi>Lib. de Coron. Mil. c.</hi> 4. Traditio tibi pretendetur auctrix, con<g ref="char:EOLhyphen"/>ſuetudo confirmatrix, fides obſervator.</note> 
+                     <hi>Tradition (from the Apo<g ref="char:EOLhyphen"/>stles) has increas'd this into a Precept; Cuſtom confirms it, Faith obſerves it.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Dionyſius Areopagita</head>
+                  <p>Makes mention of Three States of Men after death.</p>
+                  <p>
+                     <note place="margin">De Hierar. Eccles. tom. 1. c. 7. Edit. Pa<g ref="char:EOLhyphen"/>ris, 1644. Pag 352. &amp; 357. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>The <hi>Firſt</hi> are the <hi>Wicked, who die miſerably,</hi> and go ſtraightway to Hell, and for whom the Prieſt ne<g ref="char:EOLhyphen"/>ver prays at the Altar: <hi>For the Wicked deceaſed, he never prays.</hi>
+                  </p>
+                  <p>The <hi>Second</hi> State is of the <hi>Juſt,</hi> who go ſtraight<g ref="char:EOLhyphen"/>way to Heaven, and of theſe he recounts two de<g ref="char:EOLhyphen"/>grees. Some liv'd a divine Life upon earth, others not ſo fervent in Charity, a holy Life: both after death enjoy the ſight of <hi>God.</hi> The Prelate prays for neither. They want not his Prayers. For both of them he gives <hi>Thanks to God,</hi>
+                     <note place="margin">Ib. pag. 352. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.—</note> 
+                     <hi>who leads here a divine,</hi> ſays S. <hi>Denis, and moſt holy Life, as much as 'tis poſſi<g ref="char:EOLhyphen"/>ble for man to imitate God, ſhall in the next World enjoy divine and happy Reſt. And whoſe Life is infe<g ref="char:EOLhyphen"/>riour
+<pb n="41" facs="tcp:63059:25"/> to this divine one, yet likewiſe holy, he will re<g ref="char:EOLhyphen"/>ceive equal recompence for his Merits. The bleſſed Pre<g ref="char:EOLhyphen"/>late <hi>giving Thanks</hi> for this divine Juſtice, goes on with the holy Sacrifice.</hi> Thus the Roman Catholick Church holds prayers offer'd with reference to the <hi>Saints,</hi> a <hi>Thankſ-giving</hi> to <hi>GOD.</hi>
+                  </p>
+                  <p>Beſides theſe Two States, we find mention of a Third. This cannot be <hi>Hell;</hi> the place admits of Mercy. It cannot be <hi>Heaven,</hi> the detained are not yet fully purg'd from ſin, or <hi>leſſer Faults.</hi> And it is for the remiſſion of theſe, that the Prelate prays. <hi>The Prayer of the Holy Prelate implores the Divine Goodneſs to pardon the deceaſed of all his ſins commit<g ref="char:EOLhyphen"/>ted by humane frailty,</hi>
+                     <note place="margin">Ib. Parag. 3. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>and to transfer him into the light and region of the Living; and to ſeat him in the Boſom of</hi> Abraham, Iſaac, <hi>and</hi> Jacob, <hi>in a place, where there is no more any pain, ſorrow, or ſighing.</hi>
+                  </p>
+                  <p>S. <hi>Maximus</hi> in his expoſition of this paſſage,<note place="margin">S. Max. in Di<g ref="char:EOLhyphen"/>onyſ. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> calls theſe Faults of human frailty, <hi>little Sins;</hi> and theſe are thoſe <hi>venial</hi> Offences, which accompanyed the dead to Purgatory, there to be expiated, before the detained change <hi>ſorrow, grief,</hi> or <hi>weeping,</hi> into joy, and eternal felicity; and of which the Church of <hi>ROME</hi> begs pardon in her Prayers for <hi>Souls</hi> de<g ref="char:EOLhyphen"/>parted.</p>
+                  <p>And leſt ſucceeding Ages ſhould be forgetful of the dead, or oppoſe this pious Devotion of the Faithful for them, S. <hi>Denis</hi> guided with a Prophetick Spirit, left in few words, Three ſtrong Motives, which are of themſelves proper to remind the <hi>Forgetful</hi> of this
+<pb n="42" facs="tcp:63059:26"/> duty, and able to convince any unbyas'd Under<g ref="char:EOLhyphen"/>ſtanding of it.</p>
+                  <p>
+                     <hi>Firſt,</hi> he ſays, That this Doctrine is divinely re<g ref="char:EOLhyphen"/>veal'd.</p>
+                  <p>
+                     <hi>Secondly,</hi> That it is grateful to Heaven.</p>
+                  <p>
+                     <hi>Thirdly,</hi> That theſe Prayers will prove effectual to relieve the Dead.</p>
+                  <p>
+                     <note place="margin">Ib. Pag. 357, <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                     <hi>The holy Biſhop,</hi> concludes this ancient FATHER, <hi>asks, what is divinely promis'd, what is accep<g ref="char:EOLhyphen"/>table to God, and what will certain<g ref="char:EOLhyphen"/>ly be granted?</hi> And after this, can any one pretend to be exempted from praying with intent to help Souls departed in a middle ſtate of <hi>pain, ſorrow,</hi> and <hi>ſighing;</hi> or of Purgatory, where leſſer Faults are ex<g ref="char:EOLhyphen"/>piated.</p>
+                  <p>This is the ſenſe the <hi>Greeks</hi> gave of <hi>Dionyſius Areo<g ref="char:EOLhyphen"/>pagite,</hi> and they underſtood his Language.<note place="margin">Mich. in Ep. ad Nilum Mona. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>You have,</hi> ſays <hi>Michael Glyca, chiefly</hi> Dionyſius <hi>the Great, baniſhing the Opinion</hi> (of no mid<g ref="char:EOLhyphen"/>dle State); <hi>and openly teaching, what ſins may, and what may not be pardon'd. For diſcourſing of thoſe who died in Sin, he adds this, if they be ſmall, they receive help from Good Works, which are done for them, if they be notorious Faults, GOD has concluded againſt them.</hi> And <hi>Gabriel Seve<g ref="char:EOLhyphen"/>rus</hi> a <hi>Greek</hi> Schiſmatick, writing againſt the <hi>Latins,</hi> about the being of real <hi>Fire</hi> in Purgatory, which is no matter of Faith, declares the <hi>Greeks</hi> agree with the <hi>Latins: In as much as we</hi> (the Greeks) <hi>likewiſe affirm, That the Souls of thoſe who piouſly departed,
+<pb n="43" facs="tcp:63059:26"/> are help'd in thoſe places, in which they are kept,</hi>
+                     <note place="margin">Gab. Tract. de Purgat. adu. Lat. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>and ſet free by Almſ-deeds, and Prayers, which are offer'd for them, as</hi> Dionyſius Areopagite <hi>ſays.</hi>
+                  </p>
+                  <p>The Diſcourſer apprehended very much the preſſing of this ancient Father's Authority, and therefore would have us doubt of his Works, and calls him, <hi>the pre<g ref="char:EOLhyphen"/>tended Dionyſius.</hi> But the two <hi>Greeks</hi> above-menti<g ref="char:EOLhyphen"/>ned call him the true <hi>Areopagite;</hi> ſo does <hi>S. Gregory</hi> the Great;<note place="margin">
+                        <hi>S. Greg. hom.</hi> 34. <hi>Evang. Conc.</hi> 6. <hi>Gen. Act.</hi> 5. Relatio eſt aliud Teſtimo<g ref="char:EOLhyphen"/>nium è Codicillo S. Dionyſij Epiſco<g ref="char:EOLhyphen"/>pi, Athenienſis &amp; Martyris. Apud Niceph. l. 15. c, 14. S. Greg. Naz. orat. 42. in Paſcha.</note> ſo does the ſixth OEcumenical Coun<g ref="char:EOLhyphen"/>cil. <hi>Juvenalis</hi> Biſhop of <hi>Jeruſalem,</hi> who Liv'd at the Time of the fourth OEcumenical Synod, af<g ref="char:EOLhyphen"/>firms the ſame. <hi>S. Gregory Nazi<g ref="char:EOLhyphen"/>anzen</hi> makes uſe of this Authority. <hi>Dionyſius Alex<g ref="char:EOLhyphen"/>andrinus</hi> Commented upon him in the Third Age, as <hi>S. Maximus</hi> aſſures us. And the <hi>Monotholite</hi> He<g ref="char:EOLhyphen"/>reticks citing his Authority, 'twas explicated by the Fathers of the Church, as that of <hi>Dionyſius.</hi> And I think theſe grave and weighty Authorities will eaſily ſink down the light Pretenſion of a <hi>Diſcourſer.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="44" facs="tcp:63059:27"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Of Scriptures recommending Prayers for the DEAD.</head>
+               <p>HOly Scriptures have in many places recommen<g ref="char:EOLhyphen"/>ded this pious Office to the Faithful. I'le content my ſelf with three or four Inſtan<g ref="char:EOLhyphen"/>ces. The <hi>Firſt</hi> ſhall be, what we read in the Se<g ref="char:EOLhyphen"/>cond Book, and Twelth Chapter of</p>
+               <div type="part">
+                  <head>The <hi>Maccabees:</hi>
+                  </head>
+                  <p>
+                     <hi>And the day following,</hi> Judas <hi>came with his Com<g ref="char:EOLhyphen"/>pany, to take away the bodies of them that were over<g ref="char:EOLhyphen"/>thrown, and with their Kinſ-men to lay them in the Se<g ref="char:EOLhyphen"/>pulchres of their Fathers. And they found under the Coats of the ſlain, ſome of the Donaries of the Idols that were in</hi> Jamnia, <hi>from which the Law forbideth the</hi> Jews: <hi>therefore it was made plain to all, that for that cauſe they were ſlain. All therefore Bleſſed the juſt Judgment of our Lord; who had made manifeſt the hidden things. And turn'd to Prayers, they beg'd of him, that the Sin committed, might be perfectly blot<g ref="char:EOLhyphen"/>ted out.</hi>
+                  </p>
+                  <p>Then <hi>Judas</hi> exhorted the People to keep them<g ref="char:EOLhyphen"/>ſelves from the like Sin, made a Collection among them of a conſiderable ſumm of Money, and ſent it to <hi>Jeruſalem, to offer Sacrifice for the Sin, well,
+<pb n="45" facs="tcp:63059:27"/> and religiouſly thinking of the Reſurrection.</hi>
+                     <note place="margin">Edit. Sixti. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>For unleſs he hop'd that they, that were fallen, ſhould riſe again, it would ſeem ſuperfluous and vain to pray for the Dead. After conſidering, that there is an excellent Reward laid up for thoſe, that die piouſly,</hi> which was <hi>a Holy, and Godly Thought; he therefore made an Expiation for the Dead, that they might be Abſolv'd from their Sin.</hi>
+                  </p>
+                  <p>This is ſo plain and eaſy, that I cannot ima<g ref="char:EOLhyphen"/>gin, how any one, except he wilfully will miſtake, ſhould underſtand it otherwiſe, than in the <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholick Affirmation.</p>
+                  <p>The <hi>Sin,</hi> queſtionleſs, that they committed, (whom <hi>GOD</hi> permitted to be cut off by the Enemy) was <hi>mortal.</hi> The Law forbad to covet,<note place="margin">Deut. 7. Joſh. 7.</note> or take any thing appertaining to Idols. They were commanded to deſtroy it; and therefore becauſe this People <hi>had taken the Donaries of Idols, they were ſlain,</hi> ſays the Text.</p>
+                  <p>
+                     <hi>Judas</hi> and his Company, hop'd that their fellow-Souldiers repented, before they died, of their grie<g ref="char:EOLhyphen"/>vous Sin. There was ſufficient Ground for this: They fought in defence of their Country, and their Religion: For theſe, they bravely Ventur'd their Lives. As therefore the <hi>Juſtice</hi> of GOD puniſhed their Crime, by permitting them to be kill'd; might not their ſurviving Aſſociates hope the Divine <hi>Good<g ref="char:EOLhyphen"/>neſs</hi> would recompence <hi>the venturing of their Lives for GOD</hi>'s <hi>Honour and Glory,</hi> by Repentance, before
+<pb n="46" facs="tcp:63059:28"/> Death ſurpriz'd them? <hi>His Mercy exceeds all other of the Divine Attributes.</hi> At leaſt, this makes the caſe dubious: And in ambiguous things, a favou<g ref="char:EOLhyphen"/>rable Interpretation is approv'd of: <hi>For who knows the ſenſe of the Lord, or who was His Counſellor?</hi> If this be not ſatisfactory, what follows will convince you; for it is certain, That <hi>Judas</hi> order'd Prayers to be offer'd for the ſlain, becauſe he hop'd they repented of their Sin: <hi>Conſidering,</hi> ſays the Text, <hi>That there is an excellent Reward, laid up for thoſe that die godlily, he therefore made an expiation for the Dead,</hi> Is not a godly Death, a mark of Repentance?</p>
+                  <p>Theſe Prayers, order'd by <hi>Judas,</hi> were offer'd as an <hi>Atonement</hi> for the <hi>Sin</hi> of the deceaſed: That this was his deſign, is apparent. No body can diſ<g ref="char:EOLhyphen"/>pute the being of a <hi>Sacrifice</hi> among the <hi>Jews,</hi> which was offer'd for <hi>Sin.</hi> The Law of <hi>Moſes</hi> in <hi>Numbers</hi> and <hi>Deuteronomy,</hi> frequently makes mention of ſuch a one: And all the Tribes forthwith after the Battle, agree<g ref="char:EOLhyphen"/>ing in a general Collection of a ſumm of Money, to be ſent upon this Account to <hi>Jeruſalem,</hi> demon<g ref="char:EOLhyphen"/>ſtrate, that this <hi>Sin-Offering</hi> was extended to, and allow'd of for the <hi>Dead.</hi> Two Motives excited <hi>Ju<g ref="char:EOLhyphen"/>das</hi> hereunto. <hi>Firſt,</hi> the Reſurrection to Life; <hi>For unleſs he hop'd that they that were fallen, ſhould riſe again, it would ſeem ſuperfluous and vain to pray for the Dead.</hi> And <hi>Secondly,</hi> the Pardon of <hi>Sin; after conſidering,</hi> continues the Text, <hi>That there is an ex<g ref="char:EOLhyphen"/>cellent Reward laid up for thoſe that die godlily; he therefore made an Expiation for the Dead, that they might be abſolv'd from their Sin.</hi>
+                  </p>
+                  <p>By <hi>Sin,</hi> for which Prayers were offered, is meant the remainder of <hi>mortal Sin,</hi> the <hi>Guilt</hi> which infers an <hi>Obligation</hi> to ſome temporal Penalty, this is evi<g ref="char:EOLhyphen"/>dent:
+<pb n="47" facs="tcp:63059:28"/> 
+                     <hi>Judas</hi> hop'd that the <hi>Slain</hi> died godlily, or re<g ref="char:EOLhyphen"/>pented: but he could not be of this perſwaſion, un<g ref="char:EOLhyphen"/>leſs he likewiſe believ'd, that the <hi>Fault</hi> of their no<g ref="char:EOLhyphen"/>torious Crime, was pardon'd; <hi>For Repentance,</hi> car<g ref="char:EOLhyphen"/>ries along with it <hi>Forgiveneſs. Whenſoever you ſhall invoke my Name,</hi> ſaith the LORD, <hi>I will hear you.</hi> Now beſides the <hi>Guilt</hi> of eternal Damnation which follows the <hi>Fault</hi> of grievous Offences, as the ſha<g ref="char:EOLhyphen"/>dow does the body, both ſtanding, or periſhing together, there can nothing remain, to which the Title of <hi>Sin</hi> may be given, but the <hi>Guilt</hi> which infers an <hi>Obligation</hi> to <hi>temporal</hi> Puniſhment. 'Tis then this <hi>Guilt</hi> which is here call'd <hi>Sin,</hi> for which <hi>Judas,</hi> (after the hope of Pardon and Repentance of the <hi>Fault,</hi> as the Text affirms; <hi>Conſidering, That there is an ex<g ref="char:EOLhyphen"/>cellent Reward laid up for thoſe that die godlily,</hi> who re<g ref="char:EOLhyphen"/>pent of their Sins, and are pardon'd) <hi>therefore made an Expiation for the Dead, that they might be abſolv'd from their Sin.</hi> This is further confirm'd, in theſe other Words of the <hi>Text; And turning to Prayers, they beg'd of</hi> God, <hi>That the Sin Committed, might be perfectly blotted out:</hi> The <hi>Sin</hi> then, was before blot<g ref="char:EOLhyphen"/>ted out, the <hi>Fault</hi> pardon'd, but not perfectly blot<g ref="char:EOLhyphen"/>ted out; the <hi>Guilt,</hi> which deſerv'd ſome temporal Penalty, remain'd to be expiated: For had they deem'd it had been before <hi>perfectly</hi> blotted out, they would not have beg'd of God, a perfect Forgiveneſs: This had been already Granted. There was then, ſome Penalty that remain'd, of which they beg'd for<g ref="char:EOLhyphen"/>giveneſs. But the Pain of <hi>Sin,</hi> is, ordinarily ſpeaking, only compleatly ſatisfied with pain. Nor can any one hope to be perfectly pardon'd of <hi>Sin,</hi> according to the rate of God's ordinary Providence, without entire ſatisfaction; which if not paid now, muſt here<g ref="char:EOLhyphen"/>after be compenſated.</p>
+                  <pb n="48" facs="tcp:63059:29"/>
+                  <p>This is exactly what Mr. <hi>de Meaux</hi> Writes of the Roman Catholick Belief in this point, in his ex<g ref="char:EOLhyphen"/>cellent <hi>Expoſition of the Doctrine of the Church,</hi>
+                     <note place="margin">Expoſit. pag: 17. Sect. 8.</note> which all Chriſtendom approves of: <hi>Thoſe who depart this Life,</hi> ſays this Venerable <hi>Prelate, in Grace and Cha<g ref="char:EOLhyphen"/>rity, but nevertheleſs, indebted to the Divine Juſtice ſome Pains which it reſerv'd, are to ſuffer them in the other Life. This is what Oblig'd all the Primitive Chriſtians to offer up Prayers, Almſ-deeds, and Sacri<g ref="char:EOLhyphen"/>fices, for the Faithful, who departed in Peace, and Communion of the Church, with a certain Faith, that they might be aſſiſted by theſe means.</hi> This is what the Council of <hi>Trent</hi> propoſes to us to believe, touching <hi>Souls</hi> departed in <hi>Purgatory,</hi>
+                     <note place="margin">Seſs. 25. de Purg.</note> without determining in what their <hi>Pains</hi> conſiſt, or many other ſuch like things, concerning which, this Holy Council de<g ref="char:EOLhyphen"/>mands great Moderation, blaming thoſe who divulge what is uncertain, or ſuſpected.</p>
+                  <p>And to finiſh; This paſſage of Holy Scripture, out of the <hi>Second Book</hi> of <hi>Maccabees,</hi> is ſo ſtrong and convictive in behalf of praying for the <hi>Dead,</hi> that our <hi>Adverſaries</hi> can have nothing at all to ſay for themſelves, but with a ſtrange Boldneſs, to deny theſe <hi>Books</hi> to be part of the <hi>Bible:</hi> Yet the old Editions of Scripture in Engliſh, which were prin<g ref="char:EOLhyphen"/>ted near the Beginning of the <hi>Pretended Reformation,</hi> give them, without diſtinction, their proper place in the <hi>Bible.</hi> What private Revelation the <hi>Reformers</hi> have had ſince, to diſplace them, and caſt them out, they never told us. The <hi>Diſcourſer</hi> indeed, gives us this Reaſon for it, that they were <hi>never receiv'd by the</hi> Jews <hi>as Canonical,</hi>
+                  </p>
+                  <p>That we may well underſtand the Meaning of this <hi>Objection,</hi> it will not be amiſs to ſpeak here, of Two
+<pb n="49" facs="tcp:63059:29"/> 
+                     <hi>Canons</hi> of a <hi>Bible,</hi> which the <hi>Jews</hi> uſed. The Firſt <hi>Canon</hi> of the <hi>Bible</hi> was compoſed by <hi>Eſdras:</hi> This is generally allow'd of. The Second <hi>Collection</hi> was more ample, and encreas'd by the ſuperaddition of many <hi>Books</hi> to the <hi>former.</hi> This was more rarely ſpoken of in ancient Times, becauſe leſs common. 'Twas compil'd ſometime before our Saviours com<g ref="char:EOLhyphen"/>ming, with the addition of thoſe <hi>Books</hi> which were Written after the Collection of the Firſt <hi>Canon.</hi>
+                     <note place="margin">Lib. 2. Cont. Appion.</note> 
+                     <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> the <hi>Jew,</hi> aſſures us of ſuch an addition made, where he cites the <hi>Text</hi> of Eccleſiaſtick, as part of their Scripture, which Book is not found in the Col<g ref="char:EOLhyphen"/>lection of the Firſt <hi>Canon</hi> of the <hi>Jews,</hi> and was writ<g ref="char:EOLhyphen"/>ten near <hi>Two Hundred</hi> Years after it. This ſuppos'd, I am of the <hi>Diſcourſers</hi> mind, that the Books of <hi>Maccabees,</hi> were not by the <hi>Jews</hi> acknowledg'd as part of the Firſt <hi>Collection</hi> of Canonical Scripture: they were written near <hi>Three Hundred</hi> Years after the Firſt <hi>Collection</hi> made by <hi>Eſdras.</hi> But can the Diſcour<g ref="char:EOLhyphen"/>ſer prove to me, that theſe Books were not by the <hi>Jews</hi> receiv'd as part of the Second <hi>Collection</hi> of Ca<g ref="char:EOLhyphen"/>nonical Scripture?</p>
+                  <p>If the <hi>Diſcourſer</hi> (notwithſtanding this reaſonable Diſtinction) remains unſatisfied, and ſtill ſcruples their Authenticneſs, and continues to ſay, that the <hi>Jews</hi> did not receive <hi>them as Canonical;</hi> Ile humour him in this, and grant him what he asks. But are we <hi>Jews?</hi> If the <hi>Jews</hi> did not, the <hi>Church of Chriſt,</hi> receiv'd them as <hi>Canonical</hi> Scripture.</p>
+                  <p>S. <hi>Jerome</hi> 'tis true, ſays,<note place="margin">In Praef. Sa<g ref="char:EOLhyphen"/>lom.</note> that the <hi>Church</hi> did not look upon them, as part of that <hi>Canonical</hi> Scripture, which was contain'd in the Firſt <hi>Canon</hi> of the <hi>Jews,</hi> and which was univerſally receiv'd from the begin<g ref="char:EOLhyphen"/>ning by all Chriſtians: So did S. <hi>Gregory</hi> the Great.<note place="margin">Lib. Moral. 19. c. 13.</note>
+                     <pb n="50" facs="tcp:63059:30"/> Neither of them deny the <hi>Maccabees</hi> to be part of that entire <hi>Canon</hi> of Scripture, which the <hi>Church</hi> of Chriſt appprov'd of, and read in their dayes. In this entire <hi>Canon</hi> of Scripture,<note place="margin">Canon 47. Sunt autem Canonicae Scripturae <hi>Maccabaeorum</hi> Libri duo.</note> the Third <hi>Council</hi> of <hi>Carthage,</hi> which all well-meaning Chriſtians alwayes look'd upon as Orthodox, number'd the <hi>Maccabees:</hi> So did <hi>Innocent</hi> the Firſt, Head of the Univerſal Church of <hi>Chriſt</hi> upon Earth, in his Letter to <hi>Exuperius,</hi> Biſhop of <hi>Tholouſe.</hi> S. <hi>Auſtin</hi> in expreſs Words ſays, <hi>That the</hi> Jews <hi>do not receive the Books of</hi> Maccabees <hi>as Canonical,</hi>
+                     <note place="margin">
+                        <hi>S. Aug. l.</hi> 18. <hi>de Civit. Dei. c.</hi> 37. Maccabaeo<g ref="char:EOLhyphen"/>rum Libros, non Judaei, ſed Eccleſia pro Canoni<g ref="char:EOLhyphen"/>cis habet.</note> 
+                     <hi>but the Church does.</hi> And in the Second Age, the <hi>Valentinian</hi> Hereticks aſſerted, That the <hi>Bible</hi> no where patroniz'd it to be lawful to venture their Lives for GOD ALMIGHTY's ſake: And <hi>Origen</hi> inſtanc'd that Famous Example of the Mo<g ref="char:EOLhyphen"/>ther and ſeven Sons, who died upon this Account, out of the <hi>Second</hi> of <hi>Maccabees,</hi> as part of Holy <hi>Scri<g ref="char:EOLhyphen"/>pture,</hi> and confuted them. Reaſons, without excep<g ref="char:EOLhyphen"/>tion, that if the <hi>Jews</hi> did not, Chriſtians number'd theſe <hi>Books</hi> with the reſt of <hi>Canonical</hi> Scripture.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>In</hi> S. Matthew</head>
+                  <p>We read an other Confirmation of this Truth, where <hi>Chriſt</hi> himſelf ſays,<note place="margin">Chap. 12. v. 32.</note> 
+                     <hi>That the Sin againſt the Holy Ghoſt ſhall not be forgiven, neither in this World, nor in that to come.</hi> I cannot chuſe here but take Notice, how wittily the <hi>Diſcourſer</hi> Reaſons upon <hi>the World to come.</hi> He will have the World to come, to be in this preſent World, and not to be, till this
+<pb n="51" facs="tcp:63059:30"/> World end. Thus he delivers himſelf; <hi>They</hi> (Ca<g ref="char:EOLhyphen"/>tholicks) <hi>ſuppoſe, That the World to come,</hi>
+                     <note place="margin">Page 19.</note> 
+                     <hi>muſt ſig<g ref="char:EOLhyphen"/>nify the time between every mans Death, and the Gene<g ref="char:EOLhyphen"/>ral Reſurrection. The World to come, cannot be, till this World end</hi> (i. e.) <hi>till the time be, That Purga<g ref="char:EOLhyphen"/>tory ſhall be no more, which now is in this Preſent World.</hi> I expected the acuteneſs of ſo ſharp a Wit, could have diſtinguiſhed between <hi>Life,</hi> and <hi>Death;</hi> this <hi>World,</hi> and the <hi>next;</hi> eſpecially, when Scripture had done it before him. We therefore, following the diſtinction which Scripture gives, underſtand by <hi>this World,</hi> this preſent <hi>Life,</hi> which all Mankind, more or leſs enjoys; and by <hi>that to come,</hi> the State of Man after Death, a middle State, where ſome <hi>Sin</hi> is to be expiated.</p>
+                  <p>'Tis certain that by this paſſage, <hi>neither in this World, nor in that to come,</hi> is meant, that the <hi>Sin</hi> againſt the <hi>Holy Ghoſt,</hi> in which Man dies, is ne<g ref="char:EOLhyphen"/>ver to be forgiven: For if it were ever to be for<g ref="char:EOLhyphen"/>given, certainly it would be pardon'd in this World or that to come; for no other place can be aſſign'd, where Pardon is to be expected:<note place="margin">S. M. c. 3. v. 29.</note> And thus S. <hi>Mark</hi> interprets the Phraſe, <hi>He hath not Forgiveneſs for ever, and ſhall be guilty of an eternal Sin.</hi>
+                  </p>
+                  <p>From hence <hi>Roman</hi> Catholicks infer, That there are ſome <hi>Sins</hi> not <hi>eternal,</hi> to be pardon'd in the <hi>next World;</hi> and if to be pardon'd, without diſpute in a <hi>middle</hi> ſtate of Souls, for whoſe delivery, Pray<g ref="char:EOLhyphen"/>ers are offer'd by the Faithful living. Our Reaſon is, becauſe Scripture aſſigns <hi>this World,</hi> and <hi>that to come,</hi> as the only two places, where <hi>Sin</hi> may be pardon'd, ſaying, That <hi>the Sin againſt the Holy Ghoſt</hi> ſhall in neither of them, or never be pardon'd. <hi>Let thoſe,</hi> ſayes S. <hi>Bernard, who deny Purgatory, ask
+<pb n="52" facs="tcp:63059:31"/> of him,</hi>
+                     <note place="margin">
+                        <hi>S. Bern. ſuper Cantica Serm.</hi> 66. Quaerant ergò ab eo, qui dixit quoddam pec<g ref="char:EOLhyphen"/>catum eſſe, quod neque in hoc ſaeculo, neque in futuro remitteretur; Cur hoc dixerit, ſi nulla manet in fu<g ref="char:EOLhyphen"/>turo remiſſio purgatione peccatis?</note> 
+                     <hi>who ſaid there is ſome Sin, which ſhall neither be forgiven in this World, nor in that to come; Why did he ſay this, if there remain in the World to come, no forgiveneſs, or purgation of Sin?</hi>
+                  </p>
+                  <p>S. <hi>Iſidore</hi> of <hi>Spain</hi> is more ex<g ref="char:EOLhyphen"/>preſs;<note place="margin">
+                        <hi>Lib.</hi> 1. <hi>de off. Eccles. c.</hi> 18. Nam &amp; cum Dominus dicit, qui peccaverit in Spiritum ſanctum non remitteretur ei, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in hoc ſaeculo, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in futuro, demonſtrat quibuſdam illic dimitten<g ref="char:EOLhyphen"/>da peccata, &amp; quodam purgatorio ig<g ref="char:EOLhyphen"/>ne purganda.</note> 
+                     <hi>For when our Lord ſays, whoſoever ſhall ſin againſt the Holy Ghoſt, it ſhall not be forgiven him, neither in this World, nor in that to come; he demonſtrates, that Sin is forgiven to ſome there, and expia<g ref="char:EOLhyphen"/>ted in a certain Purgatory Fire.</hi> And to the ſame Words of <hi>CHRIST, S. Auſtin</hi> gives the like Interpreta<g ref="char:EOLhyphen"/>tion;<note place="margin">S. <hi>Aug. Civit. Dei, l.</hi> 2. <hi>c.</hi> 24. De De<g ref="char:EOLhyphen"/>functis quibuſ<g ref="char:EOLhyphen"/>dam vel ipſius Eccleſiae, vel quorundam piorum exau<g ref="char:EOLhyphen"/>ditur Ora<g ref="char:EOLhyphen"/>tio; — ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> enim de qui<g ref="char:EOLhyphen"/>buſdam veraciter diceretur, quod non eis remittatur, neque in hoc ſaeculo, neque in futuro, niſi eſſent, quibus, etſi non in iſto, tamen remittetur in futuro.</note> 
+                     <hi>For ſome Souls departed, the Prayers of the Church, or pious Perſons are heard; —for otherwiſe it would not be truly ſaid of ſome, that it ſhould not be forgiven them, neither in this World, nor in that to come, unleſs there were ſome, to whom, if not in this, it ſhall be forgiven in the World to come.</hi>
+                  </p>
+                  <p>And I am of opinion, if the <hi>Diſcourſer</hi> will but ſeriouſly conſider our <hi>Saviours</hi> own Words, that he will acknowledge ſome <hi>Sins</hi> to be pardon'd, in this Life, and ſome after Death. I ſhall inſtance only one Example, ſomewhat of the like nature to
+<pb n="53" facs="tcp:63059:31"/> convince him. If ſome of the <hi>Diſcourſers</hi> Compa<g ref="char:EOLhyphen"/>nions ſhould tell him, that he had a <hi>Law-ſuit</hi> in hand, and that he was certain never to win it, nei<g ref="char:EOLhyphen"/>ther at the <hi>Kings-Bench,</hi> nor <hi>Court</hi> of <hi>Chancery;</hi> I am perſwaded the <hi>Diſcourſer,</hi> or any man of ſenſe, would infer from this Perſon's talk, that <hi>Law-ſuits</hi> were pleaded both at the <hi>Kings-Bench,</hi> and in <hi>Chancery:</hi> And why will he not infer from theſe Words of our <hi>Saviours, Some ſins ſhall never be pardon'd, neither in this World, nor in that to come;</hi> that there are ſome ſins, both pardonable in <hi>this World,</hi> and in <hi>that to come?</hi> And if there be ſome ſins there to be forgiven, I ſuppoſe he will allow of ſome <hi>Pain</hi> there to be ſuf<g ref="char:EOLhyphen"/>fered; for all ſin deſerves ſome Puniſhment: And 'tis upon this account the <hi>Roman</hi> Church prays for the <hi>Dead,</hi> that their <hi>pain</hi> may be eaſed, and <hi>ſins</hi> for<g ref="char:EOLhyphen"/>given.</p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>Paul</hi>
+                     <note place="margin">1 Cor. c. 15. v. 29.</note>
+                  </head>
+                  <p>Makes uſe of two Arguments to verify the Reſur<g ref="char:EOLhyphen"/>rection of Man, <hi>Devotion</hi> perform'd for the <hi>Dead,</hi> and the <hi>expoſing</hi> of his own Life, which was in danger, preaching this ineffable Myſtery, which is the Foundation of Chriſtian Religion: <hi>Otherwiſe,</hi> ſays the Text, <hi>what ſhall they do that are baptiſed for the Dead, if the Dead riſe not at all? Why alſo are they baptiſed for them? Why alſo are we in danger every hour?</hi> I expect here the <hi>Diſcourſer</hi> will exclaim a<g ref="char:EOLhyphen"/>gainſt the <hi>hardneſs</hi> of this paſſage. I am ſomewhat of his opinion; 'tis ſo difficult, that if I were a <hi>Re<g ref="char:EOLhyphen"/>former,</hi> I could make no ſence of it.</p>
+                  <pb n="54" facs="tcp:63059:32"/>
+                  <p>
+                     <note place="margin">Mark 10. Orat. in S. Lumina.</note>This Word <hi>Baptiſm,</hi> as hard as 'tis, S. <hi>Mark</hi> inter<g ref="char:EOLhyphen"/>prets to be <hi>pain</hi> or <hi>auſterity:</hi> And S. <hi>Gregory Nazi<g ref="char:EOLhyphen"/>anzen</hi> calls <hi>Purgatory</hi> Fire, the laſt Baptiſm: But let the word <hi>Baptiſm</hi> ſignify whatever affliction the <hi>Diſ<g ref="char:EOLhyphen"/>courſer</hi> ſhall pleaſe to aſſign, <hi>Penance,</hi> or <hi>Prayer,</hi> it will ſtill Literally be true, that it is performed to be<g ref="char:EOLhyphen"/>nefit the <hi>Dead:</hi> For if the <hi>Dead</hi> are not hereby hel<g ref="char:EOLhyphen"/>ped, why does S. <hi>Paul</hi> urge again ſo earneſtly? <hi>Why alſo,</hi> to what end, <hi>are they baptiſed,</hi> or afflicted <hi>for them?</hi> If this Devotion profit not the <hi>Dead,</hi> might not we anſwer the <hi>Apoſtle,</hi> and ſay, <hi>to no end at all:</hi> And ſo void and ſilence his preſſing Forwardneſs. Far be it from me, Divine <hi>APOSTLE,</hi> to con<g ref="char:EOLhyphen"/>tend againſt thy Teſtimony!</p>
+               </div>
+               <div type="part">
+                  <head>S. <hi>John,</hi>
+                  </head>
+                  <p>The beloved Diſciple of <hi>Chriſt,</hi> ſpeaks of Two <hi>ſtates</hi> of <hi>Sinners</hi> after Death: He ſpeaks of thoſe, who we know depart in <hi>mortal,</hi> or deadly ſin: For theſe he forbids us to pray. They are without Re<g ref="char:EOLhyphen"/>demption, abandon'd by <hi>God.</hi> S. <hi>John</hi> ſpeaks of an other ſort of <hi>Sinners,</hi> whom we know by outward ſigns of Repentance, die not in deadly ſin: For theſe he does encourage us, if he do not command us, with confidence to pray. <hi>And this is,</hi> ſays the Scripture,<note place="margin">Ep. Catho. 1. Chap. 5. v. 14.</note> 
+                     <hi>the Confidence which we have towards him, that whatſoever we ſhall ask according to His Will, He heareth us. He that knoweth his Brother to ſin, a Sin not to Death; let him him ask, and Life ſhall
+<pb n="55" facs="tcp:63059:32"/> be given him, ſinning not to Death.</hi> Here is Encou<g ref="char:EOLhyphen"/>ragement for us to pray for thoſe, who die with Re<g ref="char:EOLhyphen"/>pentance: And Two ſtrong Motives excite us here<g ref="char:EOLhyphen"/>unto.</p>
+                  <p>
+                     <hi>Firſt,</hi> We are encourag'd thus to pray; becauſe we ask, <hi>What is according to GOD's Will:</hi> And</p>
+                  <p>
+                     <hi>Secondly,</hi> God <hi>will hear us,</hi> pardon the Delinquent, <hi>and give him Life</hi> everlaſting. The <hi>Text</hi> continues, <hi>There is a ſin to Death, for that I ſay not, that any man ask.</hi> Here is an Inhibition to pray for any, of whom we have no ſigns, no Hopes of Repentance at their Death.</p>
+                  <p>I do not expect here that the <hi>Diſcourſer</hi> will deny S. <hi>John</hi> ſpeaks of Praying for the Dead. The <hi>Text</hi> is too plain againſt him. And what is convincing, neither the Church, nor any Man is diſſwaded here from praying for any Sinner yet living, nor for the Remiſſion of any <hi>Sin</hi> in this Life. I know the <hi>Montaniſt</hi> Hereticks held ſome ſins not pardonable. But the Church of <hi>Chriſt</hi> before the Death of any Sinner, prays, and is often heard, for the ſins of Hereticks, <hi>Jews, Turks,</hi> Apoſtates, or what other In<g ref="char:EOLhyphen"/>fidels, or ill-Livers ſoever in the World: ſo long as Life is, all have hopes of Pardon. But S. <hi>John</hi> ſpeaks here of a Sinner, now placed in ſuch a ſtate, that Prayer for him will not be available; therefore he ſpeaks of praying for the ſins of the <hi>Departed.</hi> Of theſe, ſome die without repentance. Theſe we are not to pray for: Others duly repent; for theſe, we are encouraged to pray, and God <hi>will hear</hi> us, and give them Life everlaſting.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="56" facs="tcp:63059:33"/>
+               <head>CHAP. IX. <hi>Of Purgatory.</hi>
+               </head>
+               <p>IF the Word <hi>Purgatory</hi> be not found in Scripture, no pious Reader ought upon this ſole account to ſcruple at it: the ſenſe of it is delivered in Ho<g ref="char:EOLhyphen"/>ly Writ. Do we read any where in the <hi>Bible</hi> of the Word <hi>Trinity?</hi> We all of us believe in the bleſſed <hi>Trinity,</hi> one <hi>GOD,</hi> and three divine Perſons, <hi>Fa<g ref="char:EOLhyphen"/>ther, Son,</hi> and <hi>Holy Ghoſt.</hi> The Word, <hi>Catholick,</hi> is not written in Scriptures: We all of us profeſs in the <hi>Creed,</hi> I believe one <hi>Catholick</hi> Church.</p>
+               <p>By the Word <hi>Purgatory,</hi> we not improperly ſig<g ref="char:EOLhyphen"/>nify a <hi>middle ſtate</hi> after Death, where <hi>Souls</hi> depar<g ref="char:EOLhyphen"/>ted, endure ſome <hi>Pain</hi> for ſmaller Offences, not for<g ref="char:EOLhyphen"/>given in this World. That there is ſuch a ſtate of <hi>Souls,</hi> I have already from <hi>Fathers,</hi> and <hi>Scripture</hi> demonſtrated; for if both theſe teach us to pray, as I have ſhewn, that God will be pleaſed to deal with ſome <hi>Souls</hi> departed more mildly than their ſins deſerve, to forgive them, and to ſeat them in the Kingdom of Heaven, who can juſtly refuſe the being of <hi>Purgatory?</hi> This is all we mean by it: This is our Belief; and of this I will add one more Proof, very plain and eaſy.</p>
+               <p>There are two ſorts of ſin, <hi>Mortal,</hi> and <hi>Venial:</hi> I call a <hi>Mortal</hi> ſin, that <hi>Crime,</hi> which breaks Cha<g ref="char:EOLhyphen"/>rity
+<pb n="57" facs="tcp:63059:33"/> between God and the Delinquent, and for which hee's to ſuffer eternal pain. I mean by <hi>Venial</hi> ſin, that <hi>Fault,</hi> which leſſens Friendſhip between God, and the Juſt; for which, he muſt undergoe ſome Penalty, becauſe he has tranſgres'd, yet not that of eternal Damnation. I know that God might have puniſhed all ſins, and this too with Juſtice, eternally. But the Divine Goodneſs conſidering the weakneſs of human frailty, which failes almoſt at every ſtep it makes, will'd all Offences ſhould not be <hi>Mortal,</hi> or lyable to everlaſting Torments. This he has re<g ref="char:EOLhyphen"/>vealed to us in <hi>S. Matthew,</hi> where we read,<note place="margin">Math. 5.23.</note> 
+                  <hi>Whoſo<g ref="char:EOLhyphen"/>ever is angry with his Brother, ſhall be in danger of Judgment; whoſoever ſhall ſay to his Brother,</hi> Raca, <hi>ſhall be in danger of Council; whoſoever ſhall ſay to his Brother, thou Fool, ſhall be guilty of Hell Fire.</hi> Is not here an uncontroul'd difference of two ſorts of ſin? Some are <hi>guilty</hi> of Hell Fire; theſe, I call <hi>Mor<g ref="char:EOLhyphen"/>tal;</hi> Others are not <hi>guilty</hi> of Hell Fire, but <hi>in dan<g ref="char:EOLhyphen"/>ger of Judgment;</hi> theſe, I name <hi>Venial</hi> faults. And they are theſe quotidian ſlips, which the <hi>Prophet</hi> at<g ref="char:EOLhyphen"/>tributes to the Juſt, <hi>who fails ſeven times a day.</hi> If he be juſt, hee's <hi>GOD</hi>'s Favourite, and not guilty of Hell Fire. If he fail, as all of us do, witneſs this Sentence of <hi>S. James, We all offend in many things,</hi>
+                  <note place="margin">
+                     <hi>S.</hi> Jam. 3.2.</note> before he may recover theſe Lapſes, Death may ſur<g ref="char:EOLhyphen"/>prize him, when he neither thinks of them, nor of the World to come, where then muſt theſe ſmaller Offences be Expiated? Muſt the <hi>Delinquent</hi> go ſtraight to Heaven? This is not a place of Puniſh<g ref="char:EOLhyphen"/>ment. Muſt he be thrown head-long down into Hell? This is not a ſtate of expiation. The <hi>Justice</hi> of God will not puniſh this <hi>Delinquent</hi> eternally with the <hi>Damned,</hi> becauſe his divine <hi>Mercy</hi> has declar'd
+<pb n="58" facs="tcp:63059:34"/> in this paſſage of S. <hi>Matthew,</hi> that theſe leſſer ble<g ref="char:EOLhyphen"/>miſhes, with which he died engag'd, carry not along with them <hi>the Guilt of Hell Fire.</hi> The Mercy of God will not as yet deck him with the beauties of Heaven,<note place="margin">Apocalyp.</note> becauſe His Juſtice has pronounc'd, <hi>That no unclean thing enters into Heaven;</hi> and elſewhere he ſayes,<note place="margin">Pſal. 14. In<g ref="char:EOLhyphen"/>greditur ſine Macula.</note> 
+                  <hi>Who enters, enters without ſtain.</hi> There is then ſome <hi>middle</hi> place of <hi>Souls,</hi> aſſign'd by the Di<g ref="char:EOLhyphen"/>vine Providence, to puniſh theſe lighter Offences, that <hi>Juſtice</hi> and <hi>Mercy</hi> may meet together. This, Roman Catholicks believe and call <hi>Purgatory.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <pb n="59" facs="tcp:63059:34"/>
+               <head>Concluſion.</head>
+               <p>I Hope the <hi>Pretended Reformers</hi> will hereaf<g ref="char:EOLhyphen"/>ter be ſo juſt, as to grant, That the Ho<g ref="char:EOLhyphen"/>ly Fathers anciently pray'd with the ſame intent, which the <hi>Church</hi> of <hi>Rome</hi> does at pre<g ref="char:EOLhyphen"/>ſent, to free <hi>Souls</hi> departed, of their <hi>Leſſer Offences</hi> and <hi>Pains,</hi> in a <hi>middle</hi> State or <hi>Purga<g ref="char:EOLhyphen"/>tory. Petrus Venerabilis</hi> prays, <hi>That their Sins not yet forgiven, may be pardon'd:</hi> S. <hi>Bernard,</hi> That they may be <hi>Freed</hi> from <hi>Purgatory; S.</hi> Iſidore, <hi>That their remaining Sins may be ex<g ref="char:EOLhyphen"/>piated in a certain Purgatory Fire; S.</hi> Auſtin, <hi>That GOD may deal more meekly with them, than their ſins deſerv'd;</hi> S. Jerome, <hi>For leſſer Faults;</hi> Theodoretus, <hi>For what thorough Imprudence they had committed; S.</hi> Chryſoſtom, <hi>To profit the Deceaſed, and to appeaſe GOD; S.</hi> Epiphanius, <hi>To extinguiſh not inexpiable, but leſſer ſins;</hi> Ar<g ref="char:EOLhyphen"/>nobius, <hi>For their ſins and ſatisfactions;</hi> Tertul<g ref="char:EOLhyphen"/>lian,
+<pb n="60" facs="tcp:63059:35"/> 
+                  <hi>For their eaſe and refreſhment;</hi> and Dio<g ref="char:EOLhyphen"/>nyſius Areopagite, <hi>For all their ſins through hu<g ref="char:EOLhyphen"/>man frailty committed.</hi>
+               </p>
+               <p>Theſe Authorities are ſo plain and convi<g ref="char:EOLhyphen"/>ctive, That to ſpeak ſincerely, I cannot ſee how any Word of Reply may be given them. Had theſe <hi>Holy Writers</hi> delivered their private Opinions, one might have given them a put-off, and ſaid, they were Men, and ſo might erre. But what they ſpeak of, either intimates the Practice of the whole Church in their Times, or reckons it APOSTO<g ref="char:EOLhyphen"/>LICAL TRADITION, or hold it part of their Faith; in which they cannot be ſaid, without Injury to miſtake. Would it not be injurious to ſay, That the Learnedeſt <hi>Prelates</hi> of the Reformers, might now miſtake all of them in their Books, delivering to Poſteri<g ref="char:EOLhyphen"/>ty, that in <hi>England,</hi> Service according to the Religion by Law Eſtabliſhed, is generally ſaid in the Language of the People? The <hi>Peaſant</hi> knows as much, and the very Ideot is not ignorant of it. Sure the ſame may be granted to the FATHERS of the Church. Then they cannot all be ſaid with Injury to miſtake in delivering what was the Belief of the Church in their dayes. <hi>Petrus
+<pb n="61" facs="tcp:63059:35"/> Venerabilis</hi> aſſures us, that the Denyal of this pious Devotion for the Dead, <hi>is a Breach of Faith;</hi> S. <hi>Bernard</hi> believes this <hi>Article delivered in Scripture; S.</hi> Iſidore, <hi>What is practiſed thorow the whole World, and taught by the</hi> Apoſtles; <hi>S.</hi> Auſtin, <hi>What the Univerſal Church obſerves;</hi> S. Chryſoſtom, <hi>What is Instituted by the</hi> Apo<g ref="char:EOLhyphen"/>ſtles; <hi>S.</hi> Epiphanius, <hi>Which is ordained by the Church;</hi> Euſebius, <hi>What Chriſtians did in the flouriſhing Encreaſe of the Church;</hi> Arnobius, <hi>How they pray'd for the Dead in time of Perſecution;</hi> Tertullian, <hi>What Faith obſerves;</hi> and <hi>Dionyſius</hi> Diſciple of S. <hi>Paul,</hi> alledging the ſame Pra<g ref="char:EOLhyphen"/>ctice, who can deny it to be <hi>Apoſtolical Tradition?</hi>
+               </p>
+               <p>Or if it were nothing, when the <hi>Pretended Reformers</hi> left the <hi>Roman</hi> Church, to have ut<g ref="char:EOLhyphen"/>terly loſt the whole Aſſembly of Fathers, and renounc'd <hi>Apoſtolical Tradition;</hi> yet it is conſiderable to overlook, rather than be<g ref="char:EOLhyphen"/>lieve, this pious Devotion for the <hi>DEAD,</hi> Recommended to us in the <hi>Maccabees,</hi> in S. <hi>Matthew,</hi> in S. <hi>Paul,</hi> and in S. <hi>John,</hi> the Be<g ref="char:EOLhyphen"/>loved of <hi>CHRIST.</hi>
+               </p>
+               <p>Good GOD! What a ſtate is that <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> in, who rejects the Belief of the <hi>Univer<g ref="char:EOLhyphen"/>ſal</hi> Church of <hi>Chriſt,</hi> contradicts <hi>Apoſtolical
+<pb n="62" facs="tcp:63059:36"/> Order,</hi> and ſtruggles with <hi>Holy</hi> Scriptures. The Apoſtles inſtituted what was right; they were inſpir'd by the <hi>Holy Ghoſt.</hi> The whole Church erres not in her Belief; the <hi>Gates of Hell ſhall not prevail againſt Her.</hi> Holy <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi> agree in the Recommendation of the ſame Doctrine; they are the infallible Word of GOD. Here I leave the <hi>Pretended Refor<g ref="char:EOLhyphen"/>mers</hi> to a ſerious Conſideration of a ſpeedy Conformity with the Church of <hi>Rome</hi> in this pious Practice and <hi>Belief</hi> of Praying for the <hi>DEAD.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Eccleſiae Judicio ſubjiciantur.</p>
+            <pb facs="tcp:63059:36"/>
+         </div>
+      </back>
+   </text>
+</TEI>
